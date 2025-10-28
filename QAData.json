@@ -1,0 +1,19 @@
+{
+  "qa": [
+    {
+      "question": "Jakim językiem urzędowym - poza polskim - posługiwano się na terenie Księstwa Warszawskiego?",
+      "answer": "francuskim",
+      "answer_format": "nazwa języka"
+    },
+    {
+      "question": "Z jakiej dynastii wywodził się Władysław IV?",
+      "answer": "Z Wazów",
+      "answer_format": "nazwa dynastii (dopełniacz)"
+    },
+    {
+      "question": "Dzięki komu na polskie stoły trafiły nieznane wcześniej warzywa zwane włoszczyzną?",
+      "answer": "Królowej Bonie",
+      "answer_format": "imię własne (osoba, forma przypadkowa)"
+    }  
+]
+}
