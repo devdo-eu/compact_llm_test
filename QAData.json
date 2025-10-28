@@ -2,7 +2,7 @@
   "qa": [
     {
       "question": "Jakim językiem urzędowym - poza polskim - posługiwano się na terenie Księstwa Warszawskiego?",
-      "answer": "francuskim",
+      "answer": "Francuskim",
       "answer_format": "nazwa języka"
     },
     {
@@ -11,9 +11,2844 @@
       "answer_format": "nazwa dynastii (dopełniacz)"
     },
     {
+      "question": "Która z tych osób: Zdzisław Lubomirski, Michał Mosiołek, Aleksander Kakowski nie wchodziła w skład Rady Regencyjnej Królestwa Polskiego?",
+      "answer": "Michał Mosiołek",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Która stolica kraju było pierwszą siedzibą Rządu Rzeczypospolitej Polskiej na uchodźstwie?",
+      "answer": "Paryż",
+      "answer_format": "nazwa miasta"
+    },
+    {
+      "question": "Jaka była przyczyna śmierci królowej Jadwigi Andegaweńskiej?",
+      "answer": "Gorączka poporodowa",
+      "answer_format": "krótka fraza (przyczyna)"
+    },
+    {
+      "question": "Czy jakiekolwiek dzieło Adama Mickiewicza zostało umieszczone w kościelnym Indeksie Ksiąg Zakazanych?",
+      "answer": "Tak",
+      "answer_format": "odpowiedź Tak/Nie"
+    },
+    {
+      "question": "Ośmieszali stroje salonowe i konwencje obyczajowe. Ich nieoficjalnym, własnym pismem była gazeta \"Nadwiślanin\". Głosili idee demokratyczno-ludowe. Mowa o przedstawicielach…",
+      "answer": "Cyganerii warszawskiej",
+      "answer_format": "nazwa grupy/kierunku"
+    },
+    {
+      "question": "Tadeusz Kościuszko wyprzedzał światopoglądowo swoje czasy. Poza zasługami dla Polski wsławił się również w Stanach Zjednoczonych, otwarcie sprzeciwiając się…",
+      "answer": "niewolnictwu",
+      "answer_format": "pojęcie (rzeczownik)"
+    },
+    {
       "question": "Dzięki komu na polskie stoły trafiły nieznane wcześniej warzywa zwane włoszczyzną?",
       "answer": "Królowej Bonie",
       "answer_format": "imię własne (osoba, forma przypadkowa)"
-    }  
-]
+    },
+    {
+      "question": "Kazimierza Wielkiego niewątpliwie można zakwalifikować jako kochliwego. Ile razy władca stawał przed ołtarzem?",
+      "answer": "4",
+      "answer_format": "liczba całkowita"
+    },
+    {
+      "question": "Wśród polskich dokonań i wynalazków wymienia się opracowaną w 1916 r. metodę Czochralskiego. Czego dotyczyła ta metoda?",
+      "answer": "Wytwarzania monokryształów półmetali i metali",
+      "answer_format": "krótki opis dziedziny/procesu"
+    },
+    {
+      "question": "Gdzie podpisano traktat kończący potop szwedzki?",
+      "answer": "W Oliwie",
+      "answer_format": "nazwa miejscowości (forma miejscownika)"
+    },
+    {
+      "question": "Kiedy w życie weszła reforma administracyjna, która utworzyła instytucje samorządu terytorialnego w powiatach i województwach?",
+      "answer": "1999",
+      "answer_format": "rok (format: XXXX)"
+    },
+    {
+      "question": "Pierwszą międzynarodową organizacją, która skupiała ludzi o przekonaniach lewicowych i skrajnie lewicowych była...",
+      "answer": "I Międzynarodówka",
+      "answer_format": "nazwa organizacji"
+    },
+    {
+      "question": "Twórcą komunizmu rosyjskiego i pierwszym przywódcą Rosji Radzieckiej był...",
+      "answer": "Włodzimierz Lenin",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Traktorzystki czy murarki to w komunie symbol...",
+      "answer": "równouprawnienia i emancypacji kobiet",
+      "answer_format": "krótka fraza (pojęcia)"
+    },
+    {
+      "question": "Komunistyczny Związek Radziecki przestał istnieć...",
+      "answer": "w 1991 roku",
+      "answer_format": "rok (format: 'w XXXX roku')"
+    },
+    {
+      "question": "Komuna w Polsce trwała w latach...",
+      "answer": "1944-1989",
+      "answer_format": "zakres lat (format: XXXX-XXXX)"
+    },
+    {
+      "question": "Pierwszym przywódcą PRL-u i I sekretarzem KC PZPR był...",
+      "answer": "Bolesław Bierut",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak według badania przeprowadzonego przez CBOS w 2014 roku Polacy ocenili PRL?",
+      "answer": "Byli niemal równo podzieleni w opiniach o PRL-u: 44% ocen pozytywnych, 46% negatywnych",
+      "answer_format": "opis z wartościami procentowymi"
+    },
+    {
+      "question": "W badaniu CBOS-u z 2004 roku, z okresem PRL-u ankietowanym kojarzą się przede wszystkim...",
+      "answer": "brak bezrobocia, kolejki, puste półki oraz kartki na żywność i inne artykuły",
+      "answer_format": "lista haseł (fraza)"
+    },
+    {
+      "question": "W ostatnim czasie termin komuna służy niektórym polskim politykom do...",
+      "answer": "dyskwalifikowania przeciwników politycznych",
+      "answer_format": "krótka fraza (czynność/cel)"
+    },
+    {
+      "question": "Kiedy miała miejsce Bitwa pod Grunwaldem?",
+      "answer": "15 lipca 1410 r.",
+      "answer_format": "data (format: DD miesiąca RRRR)"
+    },
+    {
+      "question": "Co ważnego dla Polski wydarzyło się w 1612 roku?",
+      "answer": "Polska załoga po dwóch latach skapitulowała na moskiewskim Kremlu",
+      "answer_format": "krótki opis wydarzenia"
+    },
+    {
+      "question": "Święto Wojska Polskiego obchodzone jest 15 sierpnia na pamiątkę jakiego wydarzenia?",
+      "answer": "Zwycięskiej bitwy warszawskiej 1920 roku",
+      "answer_format": "nazwa wydarzenia z rokiem"
+    },
+    {
+      "question": "II wojna światowa rozpoczęła się atakiem Niemiec na Polskę 1 września...",
+      "answer": "1939 roku",
+      "answer_format": "rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku najprawdopodobniej Mieszko I przyjął chrzest, nazywany Chrztem Polski?",
+      "answer": "w 966 roku",
+      "answer_format": "rok (format: 'w XXXX roku')"
+    },
+    {
+      "question": "Pierwsza polska konstytucja została uchwalona 3 maja...",
+      "answer": "1791 roku",
+      "answer_format": "rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Godzina \"W\", w którą 1 sierpnia 1944 r. rozpoczęło się Powstanie Warszawskie to godzina...",
+      "answer": "17:00",
+      "answer_format": "czas (format: HH:MM)"
+    },
+    {
+      "question": "W którym wieku Liberum veto zostało użyte po raz pierwszy?",
+      "answer": "W XVII wieku",
+      "answer_format": "wiek rzymski + słowo 'wieku'"
+    },
+    {
+      "question": "Narodowe Święto Odrodzenia Polski było najważniejszym świętem PRL obchodzonym w rocznice uchwalenia Manifestu PKWN. W dzień tego święta oddano do użytku m.in. Trasę W-Z, MDM, Pałac Kultury i Nauki, Stadion Dziesięciolecia, czy most Łazienkowski. Którego dnia było obchodzone to święto?",
+      "answer": "22 lipca",
+      "answer_format": "dzień i miesiąc (format: DD miesiąca)"
+    },
+    {
+      "question": "W którym roku wybuchło powstanie styczniowe?",
+      "answer": "W 1863 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy podpisano porozumienia, które doprowadziły m.in. do powstania \"Solidarności\"?",
+      "answer": "W sierpniu 1980 roku",
+      "answer_format": "miesiąc i rok (format: 'w miesiącu RRRR')"
+    },
+    {
+      "question": "W którym wieku Konrad Mazowiecki sprowadził Krzyżaków?",
+      "answer": "W XIII wieku",
+      "answer_format": "wiek rzymski + 'wieku'"
+    },
+    {
+      "question": "Kiedy miały miejsce wybory kontraktowe, nazywane często pierwszymi częściowo wolnymi wyborami w polsce?",
+      "answer": "4 czerwca 1989 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "Jakie istotne dla Polski wydarzenie miało miejsce w 1795 roku?",
+      "answer": "III rozbiór Polski i Abdykacja Stanisława Augusta Poniatowskiego",
+      "answer_format": "krótka nazwa/opis wydarzenia"
+    },
+    {
+      "question": "Kiedy Polska weszła do NATO?",
+      "answer": "W 1999 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy Polska weszła do Unii Europejskiej?",
+      "answer": "W 2004 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy na terenie Polski został wprowadzony stan wojenny?",
+      "answer": "13 grudnia 1981 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "W którym roku królowa Jadwiga została koronowana na króla Polski?",
+      "answer": "W 1384 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy miała miejsce wiktoria (odsiecz) wiedeńska?",
+      "answer": "12 września 1683 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "W którym roku został przprowadzony zamach majowy Józefa Piłsudskiego?",
+      "answer": "W 1926 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Unia lubelska z Litwą została zawarta pod koniec panowania Zygmunta Augusta. W którym roku miało to miejsce?",
+      "answer": "W 1569 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "27 grudnia 1918 roku, w czasie wizyty powracającego do Polski Paderewskiego wybuchło zwycięskie...",
+      "answer": "Powstanie wielkopolskie",
+      "answer_format": "nazwa wydarzenia"
+    },
+    {
+      "question": "W którym roku zostało powołane Królewstwo Polskie, na mocy decyzji kongresu wiedzieńskiego, którego królem został rosyjski car Aleksander I?",
+      "answer": "W 1815 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Ilu królów panowało w Polsce w XVII wieku?",
+      "answer": "6",
+      "answer_format": "liczba całkowita"
+    },
+    {
+      "question": "W których latach polska załoga obsadziła, a następnie okupowała moskiewski Kreml?",
+      "answer": "1610-1612",
+      "answer_format": "zakres lat (format: XXXX-XXXX)"
+    },
+    {
+      "question": "Z kim Polska toczyła wojnę (nie miała podpisanego pokoju ani rozejmu) w 1670 roku: z Moskwą, ze Szwecją czy z Turcją?",
+      "answer": "Z żadnym z tych państw",
+      "answer_format": "krótka fraza (wybór)"
+    },
+    {
+      "question": "Jakie państwo było głównym przeciwnikiem Polski w wojnie 1626-1629?",
+      "answer": "Szwecja",
+      "answer_format": "nazwa państwa"
+    },
+    {
+      "question": "Po której bitwie doszło do masakry polskich jeńców często nazywanej obecnie \"sarmackim Katyniem\"?",
+      "answer": "Bitwa pod Batohem",
+      "answer_format": "nazwa bitwy"
+    },
+    {
+      "question": "Jaką funkcję pełnił Jan Zamoyski w Rzeczypospolitej: Hetman wielki koronny, Kanclerz wielki koronny czy Generalny starosta krakowski?",
+      "answer": "Wszystkie wymienione",
+      "answer_format": "krótka fraza (wybór zbiorczy)"
+    },
+    {
+      "question": "Który z królów przez swoich przeciwników miał zostać nazwany \"Lwem Lechistanu\"?",
+      "answer": "Jan III Sobieski",
+      "answer_format": "imię i nazwisko z numerem"
+    },
+    {
+      "question": "Kiedy miała miejsce koronacja królowej Eleonory Habsburżanki?",
+      "answer": "19 października 1670 roku",
+      "answer_format": "dzień miesiąc i rok"
+    },
+    {
+      "question": "W którym roku miała miejsce bitwa pod Kircholmem?",
+      "answer": "W 1605 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku miała miejsce bitwa pod Chocimiem przeciwko tureckiemu sułtanowi Osmanowi II?",
+      "answer": "W 1621 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Jak nazywał się słynny hetman, który zginął w bitwie pod Cecorą w 1620 roku?",
+      "answer": "Stanisław Żółkiewski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Czy Stefan Czarniecki walczył w czasie Powstania Chmielnickiego?",
+      "answer": "Tak",
+      "answer_format": "odpowiedź Tak/Nie"
+    },
+    {
+      "question": "Czy Stefan Czarniecki walczył w czasie potopu szwedzkiego?",
+      "answer": "Tak",
+      "answer_format": "odpowiedź Tak/Nie"
+    },
+    {
+      "question": "Czy Stefan Czarniecki walczył w czasie Bitwy pod Wedniem?",
+      "answer": "Nie",
+      "answer_format": "odpowiedź Tak/Nie"
+    },
+    {
+      "question": "Która z wymienionych konfederacji została zawiązana w XVII wieku: Warszawska, Barksa czy Szczebrzeszyńska?",
+      "answer": "Szczebrzeszyńska",
+      "answer_format": "nazwa konfederacji"
+    },
+    {
+      "question": "Jak nazywał się słynny barokowy poeta, autor m.in. polskiego eposu \"Transakcja wojny chocimskiej\"?",
+      "answer": "Wacław Potocki",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Która bitwa zakończyła się zwycięstwem hetmana Stanisława Żółkiewskiego nad armią moskiewską?",
+      "answer": "Bitwa pod Kłuszynem",
+      "answer_format": "nazwa bitwy"
+    },
+    {
+      "question": "Który król rządził w Polsce w 1670 roku?",
+      "answer": "Michał Korybut Wiśniowiecki",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "W którym roku doszło do bitwy pod Oliwą pomiędzy flotą polską a szwedzką, jednego z nielicznych polskich zwycięstw na morzu?",
+      "answer": "W 1627 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Często przyjmuje się, że po raz pierwszy liberum veto zgłosił poseł ziemi upickiej Władysław Siciński, chociaż tak naprawdę nie zerwał on obrad sejmu, a nie zgodził on się na ich przedłużenie ponad przepisowe sześć tygodni, co skutkowało rozejściem się bez uchwał. W którym roku doszło do tego wydarzenia?",
+      "answer": "W 1652 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Po raz pierwszy klasyczne liberum veto do zerwania obrad sejmu przed jego zakończeniem wykorzystał poseł wołyński Adam Olizar w 1669 roku. W ten sposób zerwał...",
+      "answer": "Sejm koronacyjny Michała Korybuta Wiśniowieckiego",
+      "answer_format": "nazwa sejmu/wydarzenia"
+    },
+    {
+      "question": "Który dowódca wszczął rokosz w 1665 roku?",
+      "answer": "Jerzy Lubomirski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "W ktorych latach miał miejsce \"potop szwedzki\"?",
+      "answer": "W latach 1655-1660",
+      "answer_format": "zakres lat (format: 'W latach XXXX-XXXX')"
+    },
+    {
+      "question": "W którym roku Rzeczpospolita straciła Smoleńsk na rzecz Moskwy?",
+      "answer": "W 1654 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kto był wciąż królem Polski w chwili wybuchu powstania Chmielnickiego?",
+      "answer": "Władysław IV Waza",
+      "answer_format": "imię i nazwisko z numerem"
+    },
+    {
+      "question": "Kim był Jeremi Wiśniowiecki - istotna postać polskiej historii?",
+      "answer": "Wojewodą ruskim",
+      "answer_format": "funkcja/tytuł"
+    },
+    {
+      "question": "Jaki słynny polski astronom żył i działał w XVII wieku?",
+      "answer": "Jan Heweliusz",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Który król Polski adbykował w 1668 roku?",
+      "answer": "Jan Kazimierz Waza",
+      "answer_format": "imię i nazwisko z numerem (jeśli dotyczy)"
+    },
+    {
+      "question": "Kiedy doszło do hołdu pruskiego?",
+      "answer": "W 1525 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W których latach Rzeczypospolita nie toczyła wojny z Moskwą: 1609-1618, 1632-1634, 1654-1667?",
+      "answer": "W każdym z tych okresów",
+      "answer_format": "krótka fraza (ocena zakresów)"
+    },
+    {
+      "question": "W którym roku odbyła się bitwa pod Monte Cassino?",
+      "answer": "1944 roku",
+      "answer_format": "rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku doszło do zamachu na prezydenta Gabriela Narutowicza?",
+      "answer": "1922 roku",
+      "answer_format": "rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku Zygmunt II August podpisał unię lubelską?",
+      "answer": "W 1569 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku najprawdopodobniej odbyła się koronacja Bolesława Chrobrego na pierwszego króla Polski?",
+      "answer": "W 1025 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy miał miejsce najazd tatarski na Polskę, który dotarł aż do Krakowa?",
+      "answer": "W 1241 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy został podpisany akt lokacyjny miasta Krakowa na prawie magdeburskim?",
+      "answer": "W 1257 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W jakim miesiącu miały miejsce słynne manifestacje w polsce z 1956 roku?",
+      "answer": "W czerwcu",
+      "answer_format": "miesiąc (słownie)"
+    },
+    {
+      "question": "W którym roku urodził się Mikołaj Kopernik, polski astronom, który zmienił postrzeganie świata?",
+      "answer": "W 1473 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku doszło w polsce do przewrotu majowego?",
+      "answer": "W 1926 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku została uchwalona konstytucja która obowiązywała w 2025 roku?",
+      "answer": "W 1997 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku zmarł Stanisław August Poniatowski?",
+      "answer": "W 1798 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W jakich latach prezydentem polski był gen. Wojciech Jaruzelski?",
+      "answer": "W latach 1989-1990",
+      "answer_format": "zakres lat (format: 'W latach XXXX-XXXX')"
+    },
+    {
+      "question": "W którym roku odbyła się słynna obrona Jasnej Góry?",
+      "answer": "W 1655 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy miała miejsce bitwa pod Racławicami, jedna z bitew insurekcji kościuszkowskiej?",
+      "answer": "4 kwetnia 1794 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "Kiedy miala miejsce konfederacja barska?",
+      "answer": "W latach 1768-1772",
+      "answer_format": "zakres lat (format: 'W latach XXXX-XXXX')"
+    },
+    {
+      "question": "Kiedy miało miejsce powstanie listopadowe?",
+      "answer": "W latach 1830-1831",
+      "answer_format": "zakres lat (format: 'W latach XXXX-XXXX')"
+    },
+    {
+      "question": "Kiedy miało miejsce powstanie kościuszkowskie?",
+      "answer": "W 1794 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy został wydany przez Władysława Jagiełłę akt unii w Krewie?",
+      "answer": "W 1385 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku uchwalono Konstytucję marcową?",
+      "answer": "W 1921 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku odbyły się pierwsze wybory do Sejmu Ustawodawczego w II RP?",
+      "answer": "W 1919 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy kobiety w Polsce uzyskały prawa wyborcze?",
+      "answer": "W 1918 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W grudniu którego roku wybuchło Powstanie Wielkopolskie?",
+      "answer": "1918 roku",
+      "answer_format": "rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy została przyjęta w polsce tzw. Mała Konstytucja?",
+      "answer": "W lutym 1919 roku",
+      "answer_format": "miesiąc i rok (format: 'w miesiącu RRRR roku')"
+    },
+    {
+      "question": "Którego dnia w 1920 roku wojska Armii Czerwonej, dowodzone przez Michaiła Tuchaczewskiego zbliżyły się do Warszawy, co uznaje się za początek bitwy warszawskiej?",
+      "answer": "13 sierpnia",
+      "answer_format": "dzień i miesiąc (format: DD miesiąca)"
+    },
+    {
+      "question": "W których latach miały miejsce kolejne powstania śląskie?",
+      "answer": "1919, 1920, 1921",
+      "answer_format": "lista lat rozdzielona przecinkami"
+    },
+    {
+      "question": "W którym roku miały miejsce \"zaślubiny\" Polski z Bałtykiem w Pucku?",
+      "answer": "W 1920 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Orlęta Lwowskie to młodzi polscy obrońcy Lwowa, którzy walczyli przeciwko komu?",
+      "answer": "Przeciwko odziałom ukraińskim w listopadzie 1918 i przeciwko Armi Czerwonej latem 1920",
+      "answer_format": "krótki opis (przeciwnicy i okres)"
+    },
+    {
+      "question": "W którym roku odbył się plebiscyt na Warmii, Mazurach i Powiślu dotyczący ewentualnego przyłączenia tych ziem do Polski?",
+      "answer": "W 1920 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy miała miejsce opracja wojskowa znana jako Bunt Żeligowskiego?",
+      "answer": "W październiku 1920 roku",
+      "answer_format": "miesiąc i rok (format: 'w miesiącu RRRR roku')"
+    },
+    {
+      "question": "Kiedy Eligiusz Niewiadomski zamordował Gabriela Narutowicza?",
+      "answer": "16 grudnia 1922 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "Którego dnia miało miejsce słynne spotkanie na moście Poniatowskiego pomiędzy Piłsudskim a prezydentem Wojciechowskim w trakcie przewrotu majowego?",
+      "answer": "12 maja",
+      "answer_format": "dzień i miesiąc (format: DD miesiąca)"
+    },
+    {
+      "question": "Kiedy została wydana i ogłoszona nowela do konstytuacji wzmacniająca pozycję prezydenta, wprowadzona po przewrocie majowym?",
+      "answer": "W sierpniu 1926 roku",
+      "answer_format": "miesiąc i rok (format: 'w miesiącu RRRR roku')"
+    },
+    {
+      "question": "W którym roku odbyły się wybory brzeskie?",
+      "answer": "W 1930 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku uchwalono Konstytucję kwetniową?",
+      "answer": "W 1935 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku zmarł Józef Piłsudski?",
+      "answer": "W 1935 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy Polska podpisała pakt o nieagresji z ZSRR?",
+      "answer": "W 1932 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku Polska podpisała z Niemcami deklarację o niestosowaniu przemocy?",
+      "answer": "W 1934 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku odbyły się ostatnie wybory parlamentarne przed II wojną światową?",
+      "answer": "W 1938 roku.",
+      "answer_format": "rok z kropką na końcu (format: 'W XXXX roku.')"
+    },
+    {
+      "question": "Kto był pierwszym królem Polski?",
+      "answer": "Bolesław Chrobry",
+      "answer_format": "imię i przydomek"
+    },
+    {
+      "question": "Kto był królem Polski podczas potopu szwedzkiego?",
+      "answer": "Jan Kazimierz Waza",
+      "answer_format": "imię i nazwisko z numerem/przydomkiem"
+    },
+    {
+      "question": "Która z tych królowych była formalnie królem Polski: Jadwiga Andegaweńska czy Anna Jagiellonka?",
+      "answer": "Obie były formalnym królem Polski",
+      "answer_format": "krótka fraza (wybór/oba)"
+    },
+    {
+      "question": "Który z wymienionych władców nie był władcą Polski: Bolesław Szczodry, Przemysł II czy Władysław Jagiellończyk?",
+      "answer": "Władysław Jagiellończyk",
+      "answer_format": "imię i przydomek"
+    },
+    {
+      "question": "Henryk Walezy został królem Francji jako...",
+      "answer": "Henryk III",
+      "answer_format": "imię i numer"
+    },
+    {
+      "question": "Który król Polski zginął w bitwie: Władysław III Warneńczyk, Kazimierz IV Jagiellończyk czy Jan III Sobieski?",
+      "answer": "Władysław III Warneńczyk",
+      "answer_format": "imię i numer z przydomkiem"
+    },
+    {
+      "question": "Który z tych władców został dwukrotnie wybrany na króla Polski: Kazimierz Wielki, Stanisław Leszczyński czy Stanisław August Poniatowski?",
+      "answer": "Stanisław Leszczyński",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Który król Polski panował w czasie bitwy pod Racławicami?",
+      "answer": "Stanisław August Poniatowski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Który z synów Kazimierza IV Jagiellończyka nie został polskim królem?",
+      "answer": "Wszyscy zostali polskimi królami",
+      "answer_format": "krótka fraza (ogólna)"
+    },
+    {
+      "question": "Który król Polski panował w czasie wojny trzynastoletniej?",
+      "answer": "Kazimierz IV Jagiellończyk",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Który król był w popularnym powiedzeniu opisywany jako ten, za którego panowania miała \"wyginąć szlachta\"?",
+      "answer": "Jan Olbracht",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kto był władcą Polski w czasie bitwy pod Płowcami?",
+      "answer": "Władysław Łokietek",
+      "answer_format": "imię i przydomek"
+    },
+    {
+      "question": "Który z tych władców został zdetronizowany przez polski sejm: Zygmunt III Waza, Stanisław August Poniatowski czy Mikołaj II Romanow?",
+      "answer": "Mikołaj II Romanow",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Który król rządził Polską w czasie bitwy pod Hodowem z tatarami?",
+      "answer": "Jan III Sobieski",
+      "answer_format": "imię i numer z nazwiskiem"
+    },
+    {
+      "question": "Który król Polski był również królem Szwecji?",
+      "answer": "Zygmunt III Waza",
+      "answer_format": "imię i numer z nazwiskiem"
+    },
+    {
+      "question": "Który król Polski rządził w czasie bitwy pod Orszą?",
+      "answer": "Zygmunt I Stary",
+      "answer_format": "imię i przydomek/numer"
+    },
+    {
+      "question": "Który z wymienionych polskich królów nie był królem Węgier: Ludwig I Andegaweński, Władysław I Warneńczyk czy Stefan Batory?",
+      "answer": "Stefan Batory",
+      "answer_format": "imię i nazwisko/przydomek"
+    },
+    {
+      "question": "Który król Polski rządził w czasie bitwy pod Beresteczkiem?",
+      "answer": "Jan II Kazimierz Waza",
+      "answer_format": "imię i numer z nazwiskiem"
+    },
+    {
+      "question": "Który z wymienionych królów Polski rządził równocześnie w innym państwie: Władysław II Jagiełło, Wacław II czy August II Mocny?",
+      "answer": "Wszyscy wymienieni",
+      "answer_format": "krótka fraza (wszyscy)"
+    },
+    {
+      "question": "Kto był władcą Polski w czasie bitwy pod Kliszowem?",
+      "answer": "August II Mocny",
+      "answer_format": "imię i numer z przydomkiem"
+    },
+    {
+      "question": "Kto był królem Polski w czasie unii lubelskiej?",
+      "answer": "Zygmunt II August",
+      "answer_format": "imię i numer"
+    },
+    {
+      "question": "Który z wymienionych królów Polski nie prowadził wojny z Zakonem Krzyżackim: Władysław II Jagiełło, Aleksander Jagiellończyk czy Zygmunt I Stary?",
+      "answer": "Aleksander Jagiellończyk",
+      "answer_format": "imię i nazwisko/przydomek"
+    },
+    {
+      "question": "Który król Polski został zdetronizowany przez konfederację barską?",
+      "answer": "Stanisław August Poniatowski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Który król Polski jako pierwszy założył Akademię Krakowską?",
+      "answer": "Kazimierz Wielki",
+      "answer_format": "imię i przydomek"
+    },
+    {
+      "question": "W którym roku miał miejsce Zjazd Gnieźnieński?",
+      "answer": "W 1000 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku miał miejsce zjazd w Gąsawie na którym został zamordowany Leszek Biały?",
+      "answer": "W 1227 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy doszło do bitwy pod Legnicą?",
+      "answer": "9 kwietnia 1241 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "W którym roku książę Konrad I Mazowiecki wezwał Zakon Krzyżacki do osiedlenia się na pograniczu polsko-pruskim?",
+      "answer": "W 1226 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku miał miejsce zamach na króla Polski Przemysła II?",
+      "answer": "W 1296 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Który z wymienionych władców został najwcześniej koronowany na króla Polski: Wacław III, Przemysł II czy Władysław Łokietek?",
+      "answer": "Przemysł II",
+      "answer_format": "imię i numer"
+    },
+    {
+      "question": "Kiedy miała miejsce bitwa pod Płowcami przeciwko Krzyżakom?",
+      "answer": "W 1331 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku został podpisany pokój w Kaliszu, kończący wojnę polsko-krzyżacką?",
+      "answer": "W 1343 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W jakich latach miała miejsce wojna trzynastoletnia?",
+      "answer": "W latach 1454-1466",
+      "answer_format": "zakres lat (format: 'W latach XXXX-XXXX')"
+    },
+    {
+      "question": "W którym roku miała miejsce bitwa na Zalewie Wiślanym?",
+      "answer": "W 1463 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku zmarł Kazimierz Jagiellończyk?",
+      "answer": "W 1492 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku został podpisany II pokój toruński pomiędzy Polską a Zakonem Krzyżackim?",
+      "answer": "W 1466 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku została zawarta unia polsko-litewska w Horodle?",
+      "answer": "W 1413 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W ktorym roku Władysław Jagiełło został koronowany na króla Polski?",
+      "answer": "W 1386 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Który z wymienionych władców nie był polskim królem w XIV wieku: Kazimierz Wielki, Ludwig Węgierski czy Jadwiga Andegaweńska?",
+      "answer": "Wszyscy wymienieni władcy rządzili jako królowie w XIV wieku",
+      "answer_format": "krótka fraza (ocena)"
+    },
+    {
+      "question": "W jakim mieście studiowała Maria Skłodowska-Curie?",
+      "answer": "W Paryżu",
+      "answer_format": "nazwa miasta (forma miejscownika)"
+    },
+    {
+      "question": "Ile Nagród Nobla otrzymała Maria Skłodowska-Curie?",
+      "answer": "Dwie",
+      "answer_format": "liczebnik słownie"
+    },
+    {
+      "question": "Jakie pierwiastki odkryła Maria Skłodowska-Curie z mężem?",
+      "answer": "Rad i Polon",
+      "answer_format": "nazwy pierwiastków"
+    },
+    {
+      "question": "Co robiła Maria Skłodowska-Curie w trakcie I wojny światowej?",
+      "answer": "Osobiście kierowała ambulansami wyposażonymi w aparaty rentgenowskie",
+      "answer_format": "krótki opis czynności"
+    },
+    {
+      "question": "Rudolf Weigl opracował szczepionkę na...",
+      "answer": "Tyfus plamisty",
+      "answer_format": "nazwa choroby"
+    },
+    {
+      "question": "Jakie zwierzęta były zarażane w ogromnej liczbie przez Rudolfa Weigla tyfusem w celu prac nad szczepionką?",
+      "answer": "Wszy",
+      "answer_format": "nazwa zwierząt (liczba mnoga)"
+    },
+    {
+      "question": "Polski Konstruktor przez lata najwyżej położonej linii kolejowej na świecie przebiegającej przez Andy to: Bronisław Malinowski, Ernest Malinowski czy Rudolf Modrzejewski?",
+      "answer": "Ernest Malinowski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Ernest Malinowski jest bohaterem narodowym w: Argentynie, Peru czy Chile?",
+      "answer": "W Peru",
+      "answer_format": "nazwa państwa (forma miejscownika)"
+    },
+    {
+      "question": "Jak nazywał się polski kryptolog, który jako pierwszy na świecie złamał szyfr Enigmy?",
+      "answer": "Marian Rejewski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "W którym wieku żył Mikołaj Kopernik?",
+      "answer": "XV i XVI wieku",
+      "answer_format": "zakres wieków rzymskich"
+    },
+    {
+      "question": "Jaki polski naukowiec opracował szczepionkę na polio podawaną doustnie?",
+      "answer": "Hilary Koprowski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jan Czochralski został zapomniany w PRL po tym, jak został bezpodstawnie oskarżony o...",
+      "answer": "Kolaborację z nazistami",
+      "answer_format": "krótka fraza (zarzut)"
+    },
+    {
+      "question": "Co wynalazł Ignacy Łukasiewicz?",
+      "answer": "Lampę naftową",
+      "answer_format": "nazwa wynalazku"
+    },
+    {
+      "question": "W jakim mieście została założona pierwsza na świecie przemysłowa kopalnia ropy naftowej, założona przez Ignacego Łukasiewicza?",
+      "answer": "Bóbrce",
+      "answer_format": "nazwa miejscowości (forma miejscownika)"
+    },
+    {
+      "question": "Który polski inżynier i wynalazca bywa nazywany Edisonem metalurgii: Ignacy Łukasiewicz, Tadeusz Sendzimir czy Jan Czochralski?",
+      "answer": "Tadeusz Sendzimir",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywała się słynna polska aktorka, która zrobiła karierę w Hollywood jako Pola Negri?",
+      "answer": "Apolonia Chałupiec",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Pierwszy w historii złoty medal olimpijski dla Polski zdobyła kobieta - Halina Konopacka. Miało to miejsce w 1928 roku. W jakiej dyscyplinie?",
+      "answer": "Rzut dyskiem",
+      "answer_format": "nazwa dyscypliny sportowej"
+    },
+    {
+      "question": "Bohaterką jakiego istotnego wydarzenia dla Polski była Emilia Plater?",
+      "answer": "Powstania Listopadowego",
+      "answer_format": "nazwa wydarzenia (dopełniacz)"
+    },
+    {
+      "question": "Z czego zasłynęła Izabela Czartoryska?",
+      "answer": "Mecenas sztuki, otworzyła pierwsze polskie muzeum",
+      "answer_format": "krótki opis zasług"
+    },
+    {
+      "question": "Ile Polek otrzymało Nagrodę Nobla do 2025 roku?",
+      "answer": "Trzy",
+      "answer_format": "liczebnik słownie"
+    },
+    {
+      "question": "Kim była Gen. Elżbieta Zawacka: dowódczynią powstania styczniowego, \"cichociemną\" czy szefową MON?",
+      "answer": "Cichociemną",
+      "answer_format": "krótkie określenie (funkcja/rola)"
+    },
+    {
+      "question": "Jak nazywa się Polka która za ratowanie w czasie II wojny światowej żydowskich dzieci została Sprawiedliwą wśród Narodów Świata?",
+      "answer": "Irena Sendlerowa",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywa się autorka \"Roty\"?",
+      "answer": "Maria Konopnicka",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywa się pierwsza kobieta-premier w historii polski?",
+      "answer": "Hanna Suchocka",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jaki tytuł nosi Hymn Polski?",
+      "answer": "Mazurek Dąbrowskiego",
+      "answer_format": "tytuł utworu"
+    },
+    {
+      "question": "Jaka kopalnia znajduje się w Wieliczce?",
+      "answer": "Kopalnia Soli",
+      "answer_format": "nazwa kopalni"
+    },
+    {
+      "question": "Który polski malarz stworzył cykl rysunków \"Poczet królów i książąt polskich\"?",
+      "answer": "Jan Matejko",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Uchwalona w 1791 roku ustawa regulująca ustrój prawny Rzeczypospolitej Obojga Narodów to...",
+      "answer": "Konstytucja 3 maja",
+      "answer_format": "nazwa aktu prawnego"
+    },
+    {
+      "question": "W którym roku papieżem został kardynał Karol Wojtyła?",
+      "answer": "W 1978 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Polska miała w XX wieku czterech noblistów w dziedzinie literatury: Henryka Sienkiewicza, Władysława Reymonta, Wisławę Szymborską i...",
+      "answer": "Czesława Miłosza",
+      "answer_format": "imię i nazwisko (dopełniacz)"
+    },
+    {
+      "question": "Jaki polski autor urodził się w Nowogródku (lub w Zaosiu koło Nowogródka)?",
+      "answer": "Adam Mickiewicz",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "W którym roku miał miejsce III rozbiór Polski?",
+      "answer": "W 1795 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku nastąpiło utworzenie Królestwa Polskiego?",
+      "answer": "W 1815 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku miały miejsce obrady okrągłego stołu?",
+      "answer": "W 1989 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Co powstało w 1815 roku na mocy postanowień kongresu wiedeńskiego?",
+      "answer": "Królestwo Polskie",
+      "answer_format": "nazwa państwa/organizmu politycznego"
+    },
+    {
+      "question": "Jakie powstanie wybuchło w 1830 roku?",
+      "answer": "Listopadowe",
+      "answer_format": "nazwa powstania (przymiotnik)"
+    },
+    {
+      "question": "W którym roku Jan Henryk Dąbrowski utworzył we Włoszech Legiony Polskie, które walczyły u boku Napoleona?",
+      "answer": "W 1797 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Jak są nazywane napady na dwory i pogromy ludności ziemiańskiej przez chłopów, pod przywództwem m.in. Jakuba Szeli z 1846 roku?",
+      "answer": "Rabacją galicyjską",
+      "answer_format": "nazwa wydarzenia"
+    },
+    {
+      "question": "W którym roku Napoleon nadał Księstwu Warszawskiemu Konstytucję 22 lipca?",
+      "answer": "W 1807 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Co miało miejsce w latach 30 XIX wieku w Paryżu: Ukazał się \"Pan Tadeusz\" Adama Mickiewicza, Fryderyk Chopin zagrał pierwszy koncert czy powstała Biblioteka Polska?",
+      "answer": "Wszystkie te wydarzenia miały miejsce",
+      "answer_format": "krótka fraza (wszystkie)"
+    },
+    {
+      "question": "\"Konrad Wallenrod\" Adama Mickiewicza został wydany: po powstaniu styczniowym, przed powstaniem listopadowym czy w Księstwie Warszawskim?",
+      "answer": "Przed powstaniem listopadowym",
+      "answer_format": "krótka fraza (okres)"
+    },
+    {
+      "question": "W którym roku przeprowadzono uwłaszczenie chłopów w zaborze austriackim?",
+      "answer": "W 1848 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku miało miejsce uwłaszczenie chłopów w Królewstwie Polskim?",
+      "answer": "W 1864 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Co funkcjonowało na terenach zaboru pruskiego od kongresu wiedeńskiego do powstań wielkopolskich w 1846 i 1848 roku?",
+      "answer": "Wielkie Księstwo Poznańskie",
+      "answer_format": "nazwa jednostki administracyjnej/politycznej"
+    },
+    {
+      "question": "Co zrobił Sejm Królestwa Polskiego w 1831 roku?",
+      "answer": "Zdetronizował Mikołaja I",
+      "answer_format": "krótka fraza (czynność + osoba)"
+    },
+    {
+      "question": "Co uderzyło w polską ludność mieszkającą w zaborze niemieckim po zjednoczeniu Niemiec przez Bismarcka zakończonym w 1872 roku: Kulturkampf, germanizacja szkół czy rugi pruskie?",
+      "answer": "Wszystkie wymienione",
+      "answer_format": "krótka fraza (wszystkie)"
+    },
+    {
+      "question": "25 lutego którego roku, miała miejsce bitwa pod Olszynką Grochowską, jedna z najkrwawszych bitew powstania listopadowego?",
+      "answer": "W 1831 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Jakie autonomiczne miasto-państwo istniało na ziemiach polskich w latach 1815-1846 na mocy postanowień kongresu wiedeńskiego?",
+      "answer": "Wolne Miasto Kraków",
+      "answer_format": "nazwa organizmu politycznego/miasta-państwa"
+    },
+    {
+      "question": "Co zakończyło w 1846 roku funkcjonowanie Wolnego Miasta Krakowa nazywanego też Rzeczypospolitą Krakowską?",
+      "answer": "Wybuch i upadek powstania krakowskiego",
+      "answer_format": "krótka fraza (wydarzenie)"
+    },
+    {
+      "question": "Pomiędzy jakimi państwami został zawarty pakt Ribbentrop-Mołotow, którego tajny protokół dodatkowy dotyczył rozbioru terytorium wielu państw środkowoeuropejskich, w tym Polski?",
+      "answer": "III Rzeszą i ZSRR",
+      "answer_format": "nazwy państw (spójnik 'i')"
+    },
+    {
+      "question": "Jaką nazwę nosił plan niemieckiego ataku na Polskę, który rozpoczął II wojnę światową?",
+      "answer": "Fall Weiss",
+      "answer_format": "nazwa operacji (jęz. niemiecki)"
+    },
+    {
+      "question": "Jak nazywał się niemiecki pancernik, który otworzył ogień w kierunku Westerplatte 1 września 1939 roku?",
+      "answer": "Schleswig-Holstein",
+      "answer_format": "nazwa okrętu"
+    },
+    {
+      "question": "Jak długo trwała obrona Westerplatte?",
+      "answer": "7 dni",
+      "answer_format": "liczba dni"
+    },
+    {
+      "question": "Czy Francja i Wielka Brytania wypowiedziały wojnę Niemcom we wrześniu 1939 roku?",
+      "answer": "Tak, ale w praktyce podjęły ograniczone działania, a już 12 września w Abbeville zdecydowały o niepodejmowaniu generalnej ofensywy i nalotów",
+      "answer_format": "zdanie opisowe (Tak + wyjaśnienie)"
+    },
+    {
+      "question": "Kiedy ZSRR dokonał ataku na Polskę w kontekście II wojny światowej?",
+      "answer": "17 września 1939 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "Jaki kraj, poza Niemcami i Związkiem Radzieckim, zaatakował Polskę we wrześniu 1939 roku?",
+      "answer": "Słowacja",
+      "answer_format": "nazwa państwa"
+    },
+    {
+      "question": "W którym roku miała miejsce zbrodnia katyńska?",
+      "answer": "W 1940 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Jak nazywał się słynny pododział lotnictwa myśliwskiego Polskich Sił Powietrznych w Wielkiej Brytanii im. Tadeusza Kościuszki, który zasłynął ze swojego udziału w bitwie o Anglię?",
+      "answer": "Dywizjon 303",
+      "answer_format": "nazwa jednostki (liczba)"
+    },
+    {
+      "question": "Jakie wydarzenie rozpoczęło się 19 kwetnia 1943 roku: powstanie w getcie warszawskim, powstanie warszawskie czy wyzwolnenie obozu koncentracyjnego Auschwitz?",
+      "answer": "Powstanie w getcie warszawskim",
+      "answer_format": "nazwa wydarzenia"
+    },
+    {
+      "question": "Jaki twórca i naczelny wódź Polskich Sił Zbrojnych na Zachodzie zginął w katastrofie lotniczej 4 lipca 1943 roku?",
+      "answer": "Władysław Sikorski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak jest nazywany punkt kulminacyjny rzezi wołyńskiej, który miał miejsce 11 lipca 1943 roku?",
+      "answer": "Krwawą niedzielą",
+      "answer_format": "nazwa własna (forma narzędnika)"
+    },
+    {
+      "question": "Rocznica tej bitwy (12 października), będącej początkiem szlaku bojowego tzw. Ludowego Wojska Polskiego była w PRL obchodzona jako Dzień Wojska Polskiego. O jakiej bitwie mowa?",
+      "answer": "Bitwa pod Lenino",
+      "answer_format": "nazwa bitwy"
+    },
+    {
+      "question": "Jak nazywał się niemiecki zbrodniarz wojenny, doktor medycyny i antropologii, zbrodniarz wojenny, nazywany Aniołem Śmierci, który przeprowadzał liczne pseudomedyczne eksperymenty na ludziach w obozie koncentracyjnym Auschwitz-Birkenau?",
+      "answer": "Josef Mengele",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak zakończyła się bitwa o Monte Cassino, w której brali udział Polacy z 2. Korpusu dowodzonego przez gen. Andersa?",
+      "answer": "Zdobyciem klasztoru przez aliantów",
+      "answer_format": "krótka fraza (wynik bitwy)"
+    },
+    {
+      "question": "W jaki sposób Niedzwiedź \"Wojtek\" miał pomagać polskim żołnierzom w bitwie pod Monte Cassino?",
+      "answer": "Poprzez noszenie ciężkich skrzyń z amunicją artyleryjską",
+      "answer_format": "krótka fraza (sposób pomocy)"
+    },
+    {
+      "question": "Jak nazywał się Generał dowodzący w czasie II wojny światowej 1 Dywizją Pancerną, która w 1944 brała udział w największej operacji desantowej w historii, czyli inwazji sił alianckich w Normandii?",
+      "answer": "Stanisław Maczek",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kiedy (dzień, miesiąc i rok) wybuchło Powstanie Warszawskie?",
+      "answer": "1 sierpnia 1944 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "Kryptonim dnia i godziny rozpoczęcia w Warszawie powstania, tj. godz. 17:00 1 sierpnia 1944 r. to...",
+      "answer": "Godzina \"W\"",
+      "answer_format": "nazwa kryptonimu (z cudzysłowem)"
+    },
+    {
+      "question": "Ile dni trwało Powstanie Warszawskie?",
+      "answer": "63 dni",
+      "answer_format": "liczba dni"
+    },
+    {
+      "question": "W której warszawskiej dzielnicy w czasie Powstania Warszawskiego Niemcy dokonali największej jednorazowej masakry ludności cywilnej?",
+      "answer": "Na Woli",
+      "answer_format": "nazwa dzielnicy (z przyimkiem)"
+    },
+    {
+      "question": "Za koniec II wojny światowej w Europie uznaje się wydarzenie, które miało miejsce 8 maja 1945 roku o 22:43 czasu środkowoeuropejskiego. O jakim wydarzeniu mowa?",
+      "answer": "Kapitulacja Niemiec przed przedstawicielami ZSRR, USA, Wielkiej Brytanii oraz Francji",
+      "answer_format": "krótka nazwa/opis wydarzenia"
+    },
+    {
+      "question": "Kiedy (dzień miesiąc i rok) został wprowadzony w Polsce stan wojenny?",
+      "answer": "13 grudnia 1981 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "W których latach prezydentem RP wybranym przez Sejm Ustawodawczy był Bolesław Bierut?",
+      "answer": "W okresie 1947-1952",
+      "answer_format": "zakres lat (format: 'W okresie XXXX-XXXX')"
+    },
+    {
+      "question": "Ważnym świętem obchodzonym w PRL był Dzień Wojska Polskiego, który obchodzono w rocznicę zwycięskiej bitwy pod Lenino. Którego dnia obchodzono to święto?",
+      "answer": "Dnia 12 października",
+      "answer_format": "dzień i miesiąc (z przydawką 'Dnia')"
+    },
+    {
+      "question": "W jakim miesiącu miało miejsce krwawe stłumienie strajków na Wybrzeżu w 1970 roku?",
+      "answer": "W grudniu",
+      "answer_format": "miesiąc (słownie)"
+    },
+    {
+      "question": "W którym roku miało miejsce sfałszowane referendum, w którym władze pytały o zniesienie Senatu, reformę rolną i zachodnie granice Polski?",
+      "answer": "W 1946 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku Wojska Układu Warszawskiego, w tym wojska PRL wkroczyły do Czechosłowacji?",
+      "answer": "W 1968 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kiedy (dzień miesiąc i rok) miały miejsce wybory kontraktowe, nazywane często pierwszymi częściowo wolnymi wyborami?",
+      "answer": "Dnia 4 czerwca 1989 roku",
+      "answer_format": "pełna data (z przydawką 'Dnia')"
+    },
+    {
+      "question": "W którym roku powstała PZPR poprzez zjednoczenie PPR i PPS?",
+      "answer": "W 1948 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym roku polski Kościół obchodził \"Millenium Chrztu Polski\", a władze świeckie uroczystości \"Tysiąclecia Państwa Polskiego\"?",
+      "answer": "W 1966 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kto był I sekretarzem KC PZPR w latach 1970-1980, dekadzie kojarzonej z dynamicznym wzrostem gospodarczym?",
+      "answer": "Edward Gierek",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Zdjęcie ze sceny Teatru Narodowego w Warszawie \"Dziadów\" w inscenizacji Kazimierza Dejmka było jedną z przyczyn wydarzeń (miesiąc i rok)...",
+      "answer": "Marca 1968 roku",
+      "answer_format": "miesiąc (dopełniacz) i rok"
+    },
+    {
+      "question": "Kiedy (miesiąc i rok) miały miejsce w Poznaniu uznawane za pierwsze w PRL strajk generalny i demonstracje uliczne?",
+      "answer": "W czerwcu 1952 roku",
+      "answer_format": "miesiąc i rok (format: 'W miesiącu RRRR roku')"
+    },
+    {
+      "question": "Wraz z jakim wydarzeniem, najczęściej przyjmuje się, że skończył się okres nazwany stalinizmem w Polsce: wraz z powstaniem PZPR w 1948 roku, wraz ze śmiercią Józefa Stalina w 1951 roku czy wraz z objęciem władzy przez Władysława Gomułkę w 1956 roku?",
+      "answer": "Wraz z objęciem władzy przez Władysława Gomułkę w 1956 roku",
+      "answer_format": "krótka fraza (wydarzenie i rok)"
+    },
+    {
+      "question": "Kiedy papież Jan Paweł II odbył pierwszą pielgrzymkę do Polski: w 1966 roku na Millenium Chrztu Polski, w 1979 roku na dziewięćsetną rocznicę męczeńskiej śmierci patrona Polski św. Stanisława czy w 1983 roku, tuż po zawieszeniu stanu wojennego?",
+      "answer": "W 1979 roku na dziewięćsetną rocznicę męczeńskiej śmierci patrona Polski św. Stanisława",
+      "answer_format": "rok i okazja (krótka fraza)"
+    },
+    {
+      "question": "W jakich latach Prymas Stefan Wyszyński był internowany przez władze PRL?",
+      "answer": "W latach 1953-1956",
+      "answer_format": "zakres lat (format: 'W latach XXXX-XXXX')"
+    },
+    {
+      "question": "22 lipca którego roku została uchwalona Konstytucja Polskiej Rzeczypospolitej Ludowej?",
+      "answer": "1952 roku",
+      "answer_format": "rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto był jedynym prezydentem Polski wybranym na mocy konstytucji PRL, która przed poprawkami nie przewidywała w ogóle takiego stanowiska?",
+      "answer": "Wojciech Jaruzelski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kiedy (dzień miesiąc i rok) miało miejsce zwycięstwo pod Wiedniem?",
+      "answer": "12 września 1683 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "Kiedy (dzień miesiąc i rok) została uchwalona pierwsza polska ustawa zasadnicza?",
+      "answer": "3 maja 1791 roku",
+      "answer_format": "pełna data (format: D miesiąca RRRR roku)"
+    },
+    {
+      "question": "Co miało miejsce w latach 1579-1581: Stefan Batory prowadził z carem Iwanem Groźnym wojnę o Inflanty, miało miejsce powstanie Chmielnickiego na Ukrainie czy Jan III Sobieski prowadził wojnę z Turkami?",
+      "answer": "Stefan Batory prowadził z carem Iwanem Groźnym wojnę o Inflanty",
+      "answer_format": "krótkie zdanie (wybór)"
+    },
+    {
+      "question": "Kto panował w Polsce w latach 1733-1763?",
+      "answer": "August III Sas",
+      "answer_format": "imię i numer z przydomkiem"
+    },
+    {
+      "question": "W którym wieku miała miejsce klęska pod Cecorą, wielka klęska Polski w walce z Turkami?",
+      "answer": "W XVII wieku",
+      "answer_format": "wiek rzymski + 'wieku'"
+    },
+    {
+      "question": "W którym wieku miał miejsce upadek Kamieńca Podolskiego, wielka klęska Polski w walce z Turkami?",
+      "answer": "W XVII wieku",
+      "answer_format": "wiek rzymski + 'wieku'"
+    },
+    {
+      "question": "Jakie ważne dla Polski wydarzenie miało miejsce 4 kwetnia 1794 roku?",
+      "answer": "Miało miejsce wygranie bitwy pod Racławicami przez wojska Kościuszki",
+      "answer_format": "krótkie zdanie (opis wydarzenia)"
+    },
+    {
+      "question": "W którym roku miała miejsce pierwsza wolna elekcja, w której królem został wybrany Henryk Walezy?",
+      "answer": "W 1573 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym wieku Albrecht Hohenzollern złożył hołd lenny Zygmuntowi I Staremu, nazywany hołdem pruskim?",
+      "answer": "W XVI wieku",
+      "answer_format": "wiek rzymski + 'wieku'"
+    },
+    {
+      "question": "Ostatni polski samodzielny władca z jakiej dynastii zmarł w 1572 roku?",
+      "answer": "Z dynastii Jagiellonów",
+      "answer_format": "nazwa dynastii (dopełniacz)"
+    },
+    {
+      "question": "W którym wieku miały miejsce: bitwa pod Kircholmem i bitwa pod Kłuszynem, dwa wielkie zwycięstwa polskiej husarii?",
+      "answer": "Na początku XVII wieku",
+      "answer_format": "określenie okresu (początek wieku)"
+    },
+    {
+      "question": "Za panowania jakiego władcy miał miejsce Sejm Niemy, czyli jednodniowe posiedzenie na którym z obawie przed zerwaniem obrad, nie dopuszczono nikogo do głosu?",
+      "answer": "Augusta II Mocnego",
+      "answer_format": "imię i numer z przydomkiem (dopełniacz)"
+    },
+    {
+      "question": "W którym roku miał miejsce Sejm Niemy, czyli jednodniowe posiedzenie na którym z obawie przed zerwaniem obrad, nie dopuszczono nikogo do głosu?",
+      "answer": "W 1717 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "W którym wieku miała miejsce wojna domowa o polski tron pomiędzy Augustem II Mocnym a Stanisławem Leszczyńskim?",
+      "answer": "W XVIII wieku",
+      "answer_format": "wiek rzymski + 'wieku'"
+    },
+    {
+      "question": "W 1612 roku: miała miejsce obrona Jasnej Góry przed Szwedami, zawiązała się konfederacja barska czy Polska załoga skapitulowała na moskiewskim Kremlu?",
+      "answer": "Polska załoga skapitulowała na moskiewskim Kremlu",
+      "answer_format": "krótkie zdanie (wybór)"
+    },
+    {
+      "question": "W 1772 roku: nastąpił I rozbiór Polski, nastąpiła Abdykacja Stanisława Augusta Poniatowskiego czy zawiązano konfederację targowicką?",
+      "answer": "Nastąpił I rozbiór Polski",
+      "answer_format": "krótkie zdanie (wybór)"
+    },
+    {
+      "question": "W którym roku rozpoczęło się powstanie Chmielnickiego?",
+      "answer": "W 1648 roku",
+      "answer_format": "rok (format: 'W XXXX roku')"
+    },
+    {
+      "question": "Kto był władcą gdy 28 listopada 1627 roku Polska pokonała szwedzką flotę pod Oliwą?",
+      "answer": "Zygmunt III Waza",
+      "answer_format": "imię i numer z nazwiskiem"
+    },
+    {
+      "question": "Kiedy miała miejsce bitwa pod Cedynią?",
+      "answer": "24 czerwca 972 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "W którym roku powstało biskupstwo w Poznaniu?",
+      "answer": "W 968 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywa się dokument oddający państwo Mieszka I pod opiekę papieża?",
+      "answer": "Dagome iudex",
+      "answer_format": "Nazwa dokumentu"
+    },
+    {
+      "question": "Kto był pierwszym arcybiskupem gnieźnieńskim?",
+      "answer": "Radzim Gaudenty",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku zginął św. Wojciech?",
+      "answer": "W 997 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy powstała metropolia gnieźnieńska?",
+      "answer": "W 1000 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku miało miejsce oblężenie Niemczy zakończone polskim sukcesem?",
+      "answer": "W 1017 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku koronował się Mieszko II?",
+      "answer": "W 1025 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto przeniósł stolicę Polski do Krakowa po najazdach i zniszczeniach?",
+      "answer": "Kazimierz Odnowiciel",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się ojciec Bolesława Krzywoustego?",
+      "answer": "Władysław I Herman",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku Bolesław Krzywousty wydał statut o podziale dzielnicowym?",
+      "answer": "W 1138 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy miał miejsce zjazd w Łęczycy, na którym nadano przywileje Kościołowi?",
+      "answer": "W 1180 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku odbyła się koronacja Władysława Łokietka?",
+      "answer": "W 1320 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jaki przywilej z 1374 roku ograniczył podatki nakładane na szlachtę?",
+      "answer": "Przywilej koszycki",
+      "answer_format": "Nazwa przywileju"
+    },
+    {
+      "question": "W którym roku nadano przywilej jedlneńsko-krakowski gwarantujący nietykalność osobistą szlachcie?",
+      "answer": "W latach 1430-1433",
+      "answer_format": "Zakres lat (format: 'XXXX-XXXX' lub fraza 'w latach XXXX-XXXX')"
+    },
+    {
+      "question": "Jak nazywają się przywileje nadane przez Kazimierza Jagiellończyka w 1454 roku wzmacniające pozycję sejmików?",
+      "answer": "Statuty nieszawskie",
+      "answer_format": "Nazwa przywilejów"
+    },
+    {
+      "question": "Jak nazywano część Prus przyłączoną do Polski w 1466 roku?",
+      "answer": "Prusy Królewskie",
+      "answer_format": "Nazwa własna (region)"
+    },
+    {
+      "question": "Jak nazywa się konstytucja sejmowa z 1505 roku uchwalona w Radomiu?",
+      "answer": "Nihil novi",
+      "answer_format": "Nazwa aktu prawnego"
+    },
+    {
+      "question": "Kto wprowadził grosz krakowski do obiegu w Polsce?",
+      "answer": "Wacław II Czeski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywa się akt tolerancji religijnej uchwalony w 1573 roku?",
+      "answer": "Konfederacja warszawska",
+      "answer_format": "Nazwa aktu"
+    },
+    {
+      "question": "Jak nazywa się zbiór podstaw ustroju państwa związany z wolną elekcją z 1573 roku?",
+      "answer": "Artykuły henrykowskie",
+      "answer_format": "Nazwa aktu/zbioru"
+    },
+    {
+      "question": "Kiedy Stefan Batory utworzył piechotę wybraniecką?",
+      "answer": "W 1578 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywano polskie interwencje w sprawy Moskwy na początku XVII wieku?",
+      "answer": "Dymitriady",
+      "answer_format": "Nazwa zjawiska (liczba mnoga)"
+    },
+    {
+      "question": "Jaki rozejm z 1618 roku kończył wojnę z Moskwą i potwierdzał polskie zdobycze?",
+      "answer": "Rozejm w Dywilinie",
+      "answer_format": "Nazwa rozejmu"
+    },
+    {
+      "question": "Jaki pokój z 1634 roku kończył wojnę smoleńską z Moskwą?",
+      "answer": "Pokój w Polanowie",
+      "answer_format": "Nazwa traktatu/pokoju"
+    },
+    {
+      "question": "Jaki rozejm ze Szwecją podpisano w 1635 roku?",
+      "answer": "Rozejm w Sztumskiej Wsi",
+      "answer_format": "Nazwa rozejmu"
+    },
+    {
+      "question": "Kto dowodził wojskami polskimi w zwycięskiej bitwie pod Kircholmem?",
+      "answer": "Jan Karol Chodkiewicz",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kto pokonał Szwedów pod Trzcianą w 1629 roku?",
+      "answer": "Stanisław Koniecpolski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jaki rozejm z 1667 roku kończył długą wojnę z Moskwą i oddawał Smoleńsk?",
+      "answer": "Rozejm w Andruszowie",
+      "answer_format": "Nazwa rozejmu"
+    },
+    {
+      "question": "Jaki traktat z 1672 roku nakładał na Polskę haracz na rzecz Turcji?",
+      "answer": "Pokój w Buczaczu",
+      "answer_format": "Nazwa traktatu/pokoju"
+    },
+    {
+      "question": "W którym roku Jan Sobieski odniósł zwycięstwo pod Chocimiem nad Turkami?",
+      "answer": "W 1673 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jaki pokój z 1699 roku kończył wojny z Turcją po odsieczy wiedeńskiej?",
+      "answer": "Pokój w Karłowicach",
+      "answer_format": "Nazwa traktatu/pokoju"
+    },
+    {
+      "question": "Kto ustanowił Order Orła Białego i w którym roku?",
+      "answer": "August II Mocny w 1705 roku",
+      "answer_format": "Osoba i rok (format: 'Imię i nazwisko w XXXX roku')"
+    },
+    {
+      "question": "Jak nazywał się pierwszy stały organ rządu centralnego w Rzeczypospolitej utworzony w 1775 roku?",
+      "answer": "Rada Nieustająca",
+      "answer_format": "Nazwa instytucji"
+    },
+    {
+      "question": "W którym roku powołano Komisję Edukacji Narodowej?",
+      "answer": "W 1773 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywała się pierwsza publiczna biblioteka narodowa w Polsce, założona w 1747 roku?",
+      "answer": "Biblioteka Załuskich",
+      "answer_format": "Nazwa instytucji"
+    },
+    {
+      "question": "Kto był marszałkiem Sejmu Czteroletniego w 1788 roku?",
+      "answer": "Stanisław Małachowski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Ile artykułów liczyła Konstytucja 3 maja?",
+      "answer": "11",
+      "answer_format": "Liczba (cyfra)"
+    },
+    {
+      "question": "W którym roku ustanowiono Order Virtuti Militari?",
+      "answer": "W 1792 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Z jaką bitwą wiąże się ustanowienie Orderu Virtuti Militari?",
+      "answer": "Z bitwą pod Zieleńcami",
+      "answer_format": "Nazwa bitwy (fraza)"
+    },
+    {
+      "question": "W którym roku zawiązano konfederację targowicką?",
+      "answer": "W 1792 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy Tadeusz Kościuszko złożył przysięgę na Rynku w Krakowie rozpoczynając insurekcję?",
+      "answer": "24 marca 1794 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy ogłoszono Uniwersał Połaniecki?",
+      "answer": "7 maja 1794 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "W którym roku miała miejsce bitwa pod Szczekocinami?",
+      "answer": "W 1794 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym dniu i roku Kościuszko przegrał pod Maciejowicami?",
+      "answer": "10 października 1794 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "W którym roku toczyła się bitwa pod Raszynem, w której książę Józef Poniatowski powstrzymał Austriaków?",
+      "answer": "W 1809 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywano konstytucję nadaną przez Napoleona w 1807 roku?",
+      "answer": "Konstytucją Księstwa Warszawskiego",
+      "answer_format": "Nazwa konstytucji (fraza)"
+    },
+    {
+      "question": "Kto był dowódcą wojsk polskich w kampanii 1809 roku przeciw Austrii?",
+      "answer": "Książę Józef Poniatowski",
+      "answer_format": "Imię i nazwisko (z tytułem)"
+    },
+    {
+      "question": "Kto stał na czele Rządu Narodowego w czasie powstania listopadowego po rezygnacji Chłopickiego?",
+      "answer": "Jan Krukowiecki",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kto był pierwszym dyktatorem powstania listopadowego?",
+      "answer": "Józef Chłopicki",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kto zainicjował Noc Listopadową atakiem na Belweder?",
+      "answer": "Piotr Wysocki",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku powstało Towarzystwo Demokratyczne Polskie na emigracji?",
+      "answer": "W 1832 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto stał na czele obozu politycznego zwanego Hotelem Lambert?",
+      "answer": "Adam Jerzy Czartoryski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kiedy wybuchło powstanie krakowskie, które poprzedziła rabacja galicyjska?",
+      "answer": "W lutym 1846 roku",
+      "answer_format": "Miesiąc i rok (format: 'w [miesiąc] XXXX roku')"
+    },
+    {
+      "question": "Kto dowodził powstaniem wielkopolskim w 1848 roku podczas Wiosny Ludów?",
+      "answer": "Ludwik Mierosławski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku ogłoszono Manifest 22 stycznia rozpoczynający powstanie styczniowe?",
+      "answer": "W 1863 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto został ostatnim dyktatorem powstania styczniowego?",
+      "answer": "Romuald Traugutt",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się przywódca \"białych\" w powstaniu styczniowym, twórca \"branki\" poprzedzającej wybuch?",
+      "answer": "Aleksander Wielopolski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku Galicja uzyskała szeroką autonomię w Monarchii Habsburgów?",
+      "answer": "W 1867 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywano konserwatywny krąg polityczno-kulturalny w Galicji skupiony wokół \"Przeglądu Polskiego\"?",
+      "answer": "Stańczycy",
+      "answer_format": "Nazwa środowiska"
+    },
+    {
+      "question": "Kto namalował Panoramę Racławicką wraz z Wojciechem Kossakiem?",
+      "answer": "Jan Styka",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywała się antypolska organizacja w Niemczech założona w 1894 roku?",
+      "answer": "Hakata (Deutscher Ostmarkenverein)",
+      "answer_format": "Nazwa organizacji"
+    },
+    {
+      "question": "W którym roku miał miejsce strajk dzieci we Wrześni?",
+      "answer": "W 1901 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto utworzył Legiony Polskie w 1914 roku?",
+      "answer": "Józef Piłsudski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się kryzys związany z żołnierzami Legionów w 1917 roku?",
+      "answer": "Kryzys przysięgowy",
+      "answer_format": "Nazwa wydarzenia"
+    },
+    {
+      "question": "Kiedy ogłoszono Akt zapowiadający utworzenie Królestwa Polskiego?",
+      "answer": "5 listopada 1916 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy Rada Regencyjna przekazała Józefowi Piłsudskiemu władzę cywilną?",
+      "answer": "14 listopada 1918 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kto był pierwszym premierem odrodzonej Polski, który wprowadził 8-godzinny dzień pracy?",
+      "answer": "Jędrzej Moraczewski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym dniu podpisano traktat ryski kończący wojnę polsko-bolszewicką?",
+      "answer": "18 marca 1921 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy odbył się plebiscyt na Górnym Śląsku?",
+      "answer": "20 marca 1921 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kto przeprowadził reformę walutową w 1924 roku, wprowadzając złotego?",
+      "answer": "Władysław Grabski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku Gdynia otrzymała prawa miejskie?",
+      "answer": "W 1926 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywał się program industrializacji realizowany w II RP w latach 1936-1939?",
+      "answer": "Centralny Okręg Przemysłowy",
+      "answer_format": "Nazwa programu"
+    },
+    {
+      "question": "Kto był głównym organizatorem budowy portu w Gdyni i autorem koncepcji COP?",
+      "answer": "Eugeniusz Kwiatkowski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku utworzono obóz odosobnienia w Berezie Kartuskiej?",
+      "answer": "W 1934 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak rozwija się skrót BBWR, ugrupowania sanacyjnego powstałego w 1928 roku?",
+      "answer": "Bezpartyjny Blok Współpracy z Rządem",
+      "answer_format": "Rozwinięcie skrótu"
+    },
+    {
+      "question": "Gdzie został zastrzelony prezydent Gabriel Narutowicz?",
+      "answer": "W warszawskiej Zachęcie",
+      "answer_format": "Miejsce (lokalizacja)"
+    },
+    {
+      "question": "Kto zdobył dla Polski złoty medal olimpijski w biegu na 10 000 m w 1932 roku?",
+      "answer": "Janusz Kusociński",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywała się organizacja lobbująca za rozwojem floty i dostępem do kolonii w II RP?",
+      "answer": "Liga Morska i Kolonialna",
+      "answer_format": "Nazwa organizacji"
+    },
+    {
+      "question": "Kto dowodził obroną Westerplatte?",
+      "answer": "Major Henryk Sucharski",
+      "answer_format": "Imię i nazwisko (z rangą)"
+    },
+    {
+      "question": "Kiedy skapitulował Hel, kończąc zorganizowany opór na Wybrzeżu w 1939 roku?",
+      "answer": "2 października 1939 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kto dowodził Samodzielną Grupą Operacyjną \"Polesie\" w ostatniej bitwie kampanii 1939 roku pod Kockiem?",
+      "answer": "Generał Franciszek Kleeberg",
+      "answer_format": "Imię i nazwisko (z rangą)"
+    },
+    {
+      "question": "Jak nazywa się polska jednostka, która walczyła pod Narwikiem w 1940 roku?",
+      "answer": "Samodzielna Brygada Strzelców Podhalańskich",
+      "answer_format": "Nazwa jednostki"
+    },
+    {
+      "question": "Jak nazywano polskich spadochroniarzy wysyłanych do Kraju w latach 1941-1944?",
+      "answer": "Cichociemni",
+      "answer_format": "Nazwa formacji (przydomek)"
+    },
+    {
+      "question": "Kto dowodził 1 Samodzielną Brygadą Spadochronową walczącą pod Arnhem?",
+      "answer": "Generał Stanisław Sosabowski",
+      "answer_format": "Imię i nazwisko (z rangą)"
+    },
+    {
+      "question": "Dokąd ewakuowano Armię Polską dowodzoną przez gen. Andersa w 1942 roku?",
+      "answer": "Do Iranu",
+      "answer_format": "Kraj (miejsce docelowe)"
+    },
+    {
+      "question": "Jak nazywała się struktura AK odpowiedzialna za dywersję i sabotaż?",
+      "answer": "Kedyw",
+      "answer_format": "Nazwa struktury"
+    },
+    {
+      "question": "Kiedy przeprowadzono Akcję pod Arsenałem w Warszawie?",
+      "answer": "26 marca 1943 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kto był dowódcą oddziału \"Zośka\" biorącego udział w Akcji pod Arsenałem?",
+      "answer": "Tadeusz Zawadzki \"Zośka\"",
+      "answer_format": "Imię i nazwisko (z pseudonimem)"
+    },
+    {
+      "question": "Kto był komendantem głównym Armii Krajowej w czasie wybuchu powstania warszawskiego?",
+      "answer": "Tadeusz Bór-Komorowski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kiedy podpisano układ Sikorski-Majski przywracający stosunki dyplomatyczne z ZSRR?",
+      "answer": "30 lipca 1941 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy Niemcy ogłosili odkrycie grobów katyńskich?",
+      "answer": "W kwietniu 1943 roku",
+      "answer_format": "Miesiąc i rok (format: 'w [miesiąc] XXXX roku')"
+    },
+    {
+      "question": "Gdzie ogłoszono Manifest PKWN 22 lipca 1944 roku?",
+      "answer": "W Chełmie",
+      "answer_format": "Miejsce (miasto)"
+    },
+    {
+      "question": "Kiedy zamordowano dowódcę SS i Policji na dystrykt warszawski Franza Kutscherę?",
+      "answer": "1 lutego 1944 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Jak nazywała się reprezentacja polityczna Polskiego Państwa Podziemnego działająca konspiracyjnie w latach 1944-1945?",
+      "answer": "Rada Jedności Narodowej",
+      "answer_format": "Nazwa instytucji/ciała politycznego"
+    },
+    {
+      "question": "Kto był Delegatem Rządu na Kraj w latach 1943-1945?",
+      "answer": "Jan Stanisław Jankowski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku doszło do akcji \"Burza\"?",
+      "answer": "W 1944 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy Armia Czerwona weszła do zrujnowanej Warszawy?",
+      "answer": "17 stycznia 1945 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Jaki plan gospodarczy realizowano w Polsce w latach 1950-1955?",
+      "answer": "Plan sześcioletni",
+      "answer_format": "Nazwa planu"
+    },
+    {
+      "question": "Jak nazywa się okres przemian politycznych w 1956 roku, gdy do władzy wrócił Władysław Gomułka?",
+      "answer": "Polski Październik",
+      "answer_format": "Nazwa okresu"
+    },
+    {
+      "question": "W którym roku doszło do protestów i represji w Radomiu i Ursusie?",
+      "answer": "W 1976 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy powstał Komitet Obrony Robotników?",
+      "answer": "23 września 1976 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy podpisano Porozumienia Sierpniowe w Gdańsku?",
+      "answer": "31 sierpnia 1980 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kto został pierwszym przewodniczącym NSZZ \"Solidarność\"?",
+      "answer": "Lech Wałęsa",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kiedy odbył się I Krajowy Zjazd Delegatów \"Solidarności\"?",
+      "answer": "Jesienią 1981 roku",
+      "answer_format": "Pora roku i rok (format: '[pora roku] XXXX roku')"
+    },
+    {
+      "question": "W którym dniu milicja zastrzeliła górników w kopalni \"Wujek\"?",
+      "answer": "16 grudnia 1981 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy zawieszono stan wojenny?",
+      "answer": "31 grudnia 1982 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy formalnie zniesiono stan wojenny?",
+      "answer": "22 lipca 1983 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Ile pielgrzymek do Polski odbył Jan Paweł II?",
+      "answer": "Dziewięć",
+      "answer_format": "Liczba (słownie)"
+    },
+    {
+      "question": "W którym roku Edward Gierek zastąpił Władysława Gomułkę na stanowisku I sekretarza?",
+      "answer": "W 1970 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Z jakiej okazji zbudowano Stadion Dziesięciolecia w Warszawie?",
+      "answer": "Na X-lecie PRL",
+      "answer_format": "Okazja (fraza)"
+    },
+    {
+      "question": "Kiedy i jaki organ został powołany jako tajna policja polityczna w pierwszych latach PRL?",
+      "answer": "UB w 1944 roku",
+      "answer_format": "Skrót nazwy i rok (format: 'XXX w XXXX roku')"
+    },
+    {
+      "question": "Jak nazywała się największa niezależna oficyna wydawnicza podziemia w PRL?",
+      "answer": "Niezależna Oficyna Wydawnicza \"NOWa\"",
+      "answer_format": "Nazwa instytucji"
+    },
+    {
+      "question": "Kiedy zamordowano ks. Jerzego Popiełuszkę?",
+      "answer": "W październiku 1984 roku",
+      "answer_format": "Miesiąc i rok (format: 'w [miesiąc] XXXX roku')"
+    },
+    {
+      "question": "Kiedy rozwiązano PZPR?",
+      "answer": "W styczniu 1990 roku",
+      "answer_format": "Miesiąc i rok (format: 'w [miesiąc] XXXX roku')"
+    },
+    {
+      "question": "Kto został pierwszym premierem po wyborach czerwcowych 1989 roku?",
+      "answer": "Tadeusz Mazowiecki",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kto był pierwszym prezydentem RP wybranym w powszechnych wyborach po 1989 roku?",
+      "answer": "Lech Wałęsa",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kiedy uchwalono tzw. Małą Konstytucję regulującą ustrój w latach 1992-1997?",
+      "answer": "W 1992 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy przeprowadzono denominację złotego, wprowadzając nowego złotego (PLN)?",
+      "answer": "1 stycznia 1995 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "W którym roku Polska przystąpiła do Rady Europy?",
+      "answer": "W 1991 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku Polska przystąpiła do OECD?",
+      "answer": "W 1996 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy Polska przystąpiła do strefy Schengen?",
+      "answer": "W 2007 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy odbyło się referendum akcesyjne do Unii Europejskiej?",
+      "answer": "7-8 czerwca 2003 roku",
+      "answer_format": "Zakres dni (format: 'D-D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy odbyło się referendum zatwierdzające Konstytucję RP z 1997 roku?",
+      "answer": "25 maja 1997 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Jak nazywał się plan reform gospodarczych rozpoczętych pod koniec 1989 roku?",
+      "answer": "Plan Balcerowicza",
+      "answer_format": "Nazwa planu"
+    },
+    {
+      "question": "Kiedy miała miejsce katastrofa smoleńska?",
+      "answer": "10 kwietnia 2010 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "W którym roku Polska współorganizowała Mistrzostwa Europy w piłce nożnej?",
+      "answer": "W 2012 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku Bogurodzica była po raz pierwszy odnotowana jako śpiew bojowy rycerstwa polskiego?",
+      "answer": "W 1409 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym wieku powstała Bogurodzica?",
+      "answer": "W XIII wieku",
+      "answer_format": "Wiek (format: 'w [rzymski] wieku')"
+    },
+    {
+      "question": "Kto jest autorem \"Kazań sejmowych\"?",
+      "answer": "Piotr Skarga",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kto odnowił Akademię Krakowską w 1400 roku?",
+      "answer": "Władysław Jagiełło (z fundacji królowej Jadwigi)",
+      "answer_format": "Imię i nazwisko (z doprecyzowaniem)"
+    },
+    {
+      "question": "Kto przyjął hołd pruski od Albrechta Hohenzollerna?",
+      "answer": "Zygmunt I Stary",
+      "answer_format": "Imię i nazwisko (z przydomkiem)"
+    },
+    {
+      "question": "Który król panował najdłużej na tronie polskim?",
+      "answer": "Zygmunt III Waza",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Który król panował najkrócej w Rzeczypospolitej Obojga Narodów?",
+      "answer": "Henryk Walezy",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Gdzie odbywały się wolne elekcje królów polskich?",
+      "answer": "Na polu elekcyjnym pod wsią Wola koło Warszawy",
+      "answer_format": "Miejsce (opis lokalizacji)"
+    },
+    {
+      "question": "W którym roku wcielono Mazowsze do Korony?",
+      "answer": "W 1526 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywa się pokój kończący wojnę trzynastoletnią, który uregulował sprawy pruskie?",
+      "answer": "II pokój toruński",
+      "answer_format": "Nazwa pokoju"
+    },
+    {
+      "question": "Który polski dowódca nazywany \"Czarnym Rycerzem\" zginął pod Gołąbcem nad Dunajem?",
+      "answer": "Zawisza Czarny z Garbowa",
+      "answer_format": "Imię i nazwisko (z przydomkiem)"
+    },
+    {
+      "question": "W którym roku zginął Zawisza Czarny?",
+      "answer": "W 1428 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto był autorem \"Ksiąg narodu i pielgrzymstwa polskiego\"?",
+      "answer": "Adam Mickiewicz",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kto jest bohaterem nazywanym \"ojcem amerykańskiej kawalerii\", walczącym w wojnie o niepodległość USA?",
+      "answer": "Kazimierz Pułaski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym mieście znajduje się słynny romański zabytek, Drzwi Gnieźnieńskie?",
+      "answer": "W Gnieźnie",
+      "answer_format": "Miasto"
+    },
+    {
+      "question": "Jak nazywał się pierwszy polski drukarz działający w Krakowie w XV wieku?",
+      "answer": "Kasper Straube",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jaki tytuł nosi pierwsza drukowana książka w języku polskim?",
+      "answer": "Raj duszny",
+      "answer_format": "Tytuł utworu"
+    },
+    {
+      "question": "Kiedy Mazurek Dąbrowskiego został oficjalnie uznany za hymn państwowy?",
+      "answer": "W 1927 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto napisał słowa Mazurka Dąbrowskiego?",
+      "answer": "Józef Wybicki",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się polski matematyk, współtwórca analizy funkcjonalnej i przestrzeni nazwanych jego nazwiskiem?",
+      "answer": "Stefan Banach",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kto był jednym z trzech polskich kryptologów obok Rejewskiego i Zygalskiego, którzy złamali Enigmę?",
+      "answer": "Jerzy Różycki",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywają się perforowane arkusze używane w pracach nad Enigmą opracowane przez polskiego kryptologa?",
+      "answer": "Płachty Zygalskiego",
+      "answer_format": "Nazwa narzędzia"
+    },
+    {
+      "question": "Gdzie w lipcu 1939 roku Polacy przekazali Francuzom i Brytyjczykom wyniki prac nad Enigmą?",
+      "answer": "W Pyrach pod Warszawą",
+      "answer_format": "Miejsce (lokalizacja)"
+    },
+    {
+      "question": "Jak nazywał się oboz w Pruszkowie do którego deportowano ludność po Powstaniu Warszawkim?",
+      "answer": "Durchgangslager 121 (Dulag 121)",
+      "answer_format": "Nazwa obozu"
+    },
+    {
+      "question": "Kiedy podpisano akt kapitulacji w Ożarowie?",
+      "answer": "2 października 1944 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Jak nazywała się konspiracyjna formacja wojskowa poprzedniczka AK?",
+      "answer": "Związek Walki Zbrojnej",
+      "answer_format": "Nazwa organizacji"
+    },
+    {
+      "question": "Jak nazywała się legalna na emigracji władza ustawodawcza Rządu RP na uchodźstwie po 1939 roku?",
+      "answer": "Rada Narodowa RP",
+      "answer_format": "Nazwa instytucji"
+    },
+    {
+      "question": "Kto był ostatnim Naczelnym Wodzem Polskich Sił Zbrojnych na Zachodzie podczas II wojny światowej?",
+      "answer": "Generał Tadeusz Bór-Komorowski",
+      "answer_format": "Imię i nazwisko (z rangą)"
+    },
+    {
+      "question": "W którym roku sformowano 1 Dywizję Piechoty im. Tadeusza Kościuszki w ZSRR?",
+      "answer": "W 1943 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywało się tajne porozumienie aliantów z 1944 roku dotyczące powojennych stref wpływów, które objęło także Polskę?",
+      "answer": "Porozumienie procentowe",
+      "answer_format": "Nazwa porozumienia"
+    },
+    {
+      "question": "Kiedy odbyła się konferencja jałtańska?",
+      "answer": "W lutym 1945 roku",
+      "answer_format": "Miesiąc i rok (format: 'w [miesiąc] XXXX roku')"
+    },
+    {
+      "question": "Kiedy odbyła się konferencja poczdamska?",
+      "answer": "Latem 1945 roku (17 lipca 1945 - 2 sierpnia 1945)",
+      "answer_format": "Pora roku i rok z zakresem dat w nawiasie"
+    },
+    {
+      "question": "Kto był kanclerzem i hetmanem, fundatorem Zamościa i Akademii Zamojskiej?",
+      "answer": "Jan Zamoyski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się wielki hetman litewski, zwycięzca spod Orszy w 1514 roku?",
+      "answer": "Konstanty Ostrogski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywa się zwycięska dla Polaków bitwa z 1514 roku nad Dnieprem?",
+      "answer": "Bitwa pod Orszą",
+      "answer_format": "Nazwa bitwy"
+    },
+    {
+      "question": "Kto dowodził Polakami w bitwie pod Obertynem w 1531 roku?",
+      "answer": "Hetman Jan Tarnowski",
+      "answer_format": "Imię i nazwisko (z tytułem)"
+    },
+    {
+      "question": "W którym roku miała miejsce bitwa pod Obertynem?",
+      "answer": "W 1531 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywa się kodeks praw, który zebrał Jan Łaski w 1506 roku?",
+      "answer": "Statut Łaskiego",
+      "answer_format": "Nazwa kodeksu"
+    },
+    {
+      "question": "Kiedy założono Uniwersytet Wileński (Akademię i Uniwersytet Wileński)?",
+      "answer": "W 1579 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto założył Akademię Wileńską?",
+      "answer": "Stefan Batory",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Który król Polski prowadził zwycięską wojnę o Inflanty zakończoną w 1582 roku?",
+      "answer": "Stefan Batory",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywa się rozejm zawarty w 1582 roku kończący wojnę o Inflanty?",
+      "answer": "Rozejm w Jamie Zapolskim",
+      "answer_format": "Nazwa rozejmu"
+    },
+    {
+      "question": "W którym roku król Jan Kazimierz złożył śluby lwowskie?",
+      "answer": "W 1656 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto dowodził zwycięską bitwą pod Kłuszynem w 1610 roku?",
+      "answer": "Hetman Stanisław Żółkiewski",
+      "answer_format": "Imię i nazwisko (z tytułem)"
+    },
+    {
+      "question": "W którym roku zawarto pokój Grzymułtowskiego z Rosją?",
+      "answer": "W 1686 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto był jednym z głównych przywódców konfederacji barskiej, późniejszy bohater USA?",
+      "answer": "Kazimierz Pułaski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jaki sejm nazywany rozbiorowym ratyfikował I rozbiór Polski?",
+      "answer": "Sejm 1773-1775",
+      "answer_format": "Nazwa i zakres lat (format: 'Sejm XXXX-XXXX')"
+    },
+    {
+      "question": "Jak nazywał się poseł, który sprzeciwiał się rozbiorowi, kładąc się w drzwiach sali sejmowej?",
+      "answer": "Tadeusz Rejtan (Reytan)",
+      "answer_format": "Imię i nazwisko (z wariantem pisowni)"
+    },
+    {
+      "question": "Jak nazywała się pierwsza władza wykonawcza ustanowiona przez Konstytucję 3 maja?",
+      "answer": "Straż Praw",
+      "answer_format": "Nazwa instytucji"
+    },
+    {
+      "question": "Kiedy ustanowiono Krzyż Walecznych?",
+      "answer": "W 1920 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywał się plan powstania powszechnego AK zakładający uderzenie przy zbliżaniu się Armii Czerwonej?",
+      "answer": "Plan \"Burza\"",
+      "answer_format": "Nazwa planu (z cudzysłowem)"
+    },
+    {
+      "question": "Jak nazywała się największa partia chłopska w pierwszych latach powojennych, zwalczana przez komunistów?",
+      "answer": "Polskie Stronnictwo Ludowe (PSL)",
+      "answer_format": "Nazwa partii (z akronimem)"
+    },
+    {
+      "question": "Kto stał na czele PSL po wojnie?",
+      "answer": "Stanisław Mikołajczyk",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kiedy przeprowadzono \"referendum ludowe\" zwane \"3xTAK\"?",
+      "answer": "30 czerwca 1946 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy odbyły się wybory do Sejmu Ustawodawczego sfałszowane przez komunistów?",
+      "answer": "19 stycznia 1947 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy utworzono Układ Warszawski?",
+      "answer": "W 1955 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy Polska przystąpiła do ONZ?",
+      "answer": "W 1945 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy ukazał się pierwszy numer \"Tygodnika Solidarność\"?",
+      "answer": "W kwietniu 1981 roku",
+      "answer_format": "Miesiąc i rok (format: 'w [miesiąc] XXXX roku')"
+    },
+    {
+      "question": "Kto był redaktorem naczelnym \"Tygodnika Solidarność\" w 1981 roku?",
+      "answer": "Tadeusz Mazowiecki",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się słynny \"Kurier z Warszawy\", emisariusz AK?",
+      "answer": "Jan Nowak-Jeziorański",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "W którym roku ustanowiono Święto Narodowe 3 Maja w II RP?",
+      "answer": "W 1919 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "W którym roku przywrócono Święto 3 Maja w III RP po zniesieniu go w PRL?",
+      "answer": "W 1990 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kiedy przyjęto ustawę o zmianie godła państwowego w III RP (przywrócenie korony orłowi)?",
+      "answer": "W 1990 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Jak nazywa się najstarszy polski order wojskowy ustanowiony w 1705 roku?",
+      "answer": "Order Orła Białego",
+      "answer_format": "Nazwa orderu"
+    },
+    {
+      "question": "W którym roku utworzono Uniwersytet Lwowski (nadanie praw uniwersyteckich Akademii Jezuickiej)?",
+      "answer": "W 1661 roku",
+      "answer_format": "Rok (format: 'XXXX roku')"
+    },
+    {
+      "question": "Kto ufundował pomnik Grunwaldzki odsłonięty w 1910 roku w Krakowie?",
+      "answer": "Ignacy Jan Paderewski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Jaki dokument z 22 listopada 1918 roku ustanowił podstawy ustrojowe odrodzonej Polski?",
+      "answer": "Dekret o najwyższej władzy reprezentacyjnej Republiki Polskiej",
+      "answer_format": "Nazwa dokumentu"
+    },
+    {
+      "question": "Jak nazywał się pierwszy naczelnik państwa w II RP?",
+      "answer": "Józef Piłsudski",
+      "answer_format": "Imię i nazwisko"
+    },
+    {
+      "question": "Kiedy uchwalono reformę rolną PKWN?",
+      "answer": "6 września 1944 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Kiedy przyjęto ustawę o nacjonalizacji przemysłu w Polsce Ludowej?",
+      "answer": "3 stycznia 1946 roku",
+      "answer_format": "Data (format: 'D miesiąca XXXX roku')"
+    },
+    {
+      "question": "Jak nazywała się największa organizacja antykomunistycznego podziemia po wojnie, kontynuatorka AK?",
+      "answer": "Zrzeszenie \"Wolność i Niezawisłość\" (WiN)",
+      "answer_format": "Nazwa organizacji (z akronimem)"
+    },
+    {
+      "question": "Kiedy obchodzony jest Narodowy Dzień Pamięci \"Żołnierzy Wyklętych\"?",
+      "answer": "1 marca",
+      "answer_format": "Dzień i miesiąc (format: 'D miesiąca')"
+    },
+    {
+      "question": "Kiedy i gdzie odbyła się bitwa, nazywana polskimi Termopilami?",
+      "answer": "7-10 września 1939 roku pod Wizną",
+      "answer_format": "Zakres dni i rok z lokalizacją (format: 'D-D miesiąca XXXX roku pod [miejsce]')"
+    },
+    {
+      "question": "Kto dowodził obroną odcinka \"Wizna\"?",
+      "answer": "Kapitan Władysław Raginis",
+      "answer_format": "stopień wojskowy oraz imię i nazwisko"
+    },
+    {
+      "question": "Kiedy odbyła się bitwa nad Bzurą, największa bitwa kampanii wrześniowej?",
+      "answer": "9-22 września 1939 roku",
+      "answer_format": "zakres dni w miesiącu i rok, np. '9-22 miesiąca RRRR roku'"
+    },
+    {
+      "question": "Jak nazywał się polski okręt, który w 1939 roku uciekł z internowania w Tallinnie?",
+      "answer": "ORP Orzeł",
+      "answer_format": "nazwa okrętu"
+    },
+    {
+      "question": "Jak nazywał się dowódca 2 Korpusu Polskiego, który zdobył Monte Cassino?",
+      "answer": "Generał Władysław Anders",
+      "answer_format": "stopień wojskowy oraz imię i nazwisko"
+    },
+    {
+      "question": "Kiedy wyzwolono holenderską Bredę przez 1 Dywizję Pancerną?",
+      "answer": "29 października 1944 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Kiedy ustanowiono Order Krzyża Grunwaldu?",
+      "answer": "W 1943 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kto został Naczelnym Wodzem Polskich Sił Zbrojnych po śmierci gen. Sikorskiego?",
+      "answer": "Generał Kazimierz Sosnkowski",
+      "answer_format": "stopień wojskowy oraz imię i nazwisko"
+    },
+    {
+      "question": "W którym roku utworzono Korpus Ochrony Pogranicza?",
+      "answer": "W 1924 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kto był pierwszym prezydentem RP na uchodźstwie po 1939 roku?",
+      "answer": "Władysław Raczkiewicz",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się polski astronom z XVII wieku autor Selenografii, twórca atlasu Księżyca?",
+      "answer": "Jan Heweliusz",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywa się najstarsza polska pieśń patriotyczna, śpiewana m.in. pod Grunwaldem?",
+      "answer": "Bogurodzica",
+      "answer_format": "tytuł pieśni"
+    },
+    {
+      "question": "W którym roku uchwalono ustawę o języku polskim jako języku urzędowym?",
+      "answer": "W 1999 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy Polska podpisała Konkordat ze Stolicą Apostolską po 1989 roku?",
+      "answer": "28 lipca 1993 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Kiedy wszedł w życie Konkordat, podpisany między Polską, a Stolicą Apostolską 28 lipca 1993 roku?",
+      "answer": "25 kwietnia 1998 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Jak nazywał się polski inżynier, budowniczy mostów w USA, syn aktorki Heleny Modrzejewskiej?",
+      "answer": "Rudolf (Ralph) Modrzejewski",
+      "answer_format": "imię i nazwisko (z wariantem w nawiasie)"
+    },
+    {
+      "question": "W którym roku powołano Polskie Towarzystwo Historyczne?",
+      "answer": "W 1886 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kto był pierwszym królem Polski koronowanym w katedrze wawelskiej?",
+      "answer": "Władysław Łokietek",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "W którym roku przeniesiono stolicę z Krakowa do Warszawy za Zygmunta III Wazy?",
+      "answer": "W 1596 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kto zaprojektował Kaplicę Zygmuntowską na Wawelu?",
+      "answer": "Bartolomeo Berrecci",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kto jest autorem \"Żywotów świętych\"?",
+      "answer": "Piotr Skarga",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "W którym roku powstała Komisja Kodyfikacyjna II RP opracowująca jednolite prawo?",
+      "answer": "W 1919 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Jak nazywa się kodeks karny II RP z 1932 roku od nazwiska ministra?",
+      "answer": "Kodeks Makarewicza",
+      "answer_format": "nazwa kodeksu"
+    },
+    {
+      "question": "W którym roku powstał Centralny Związek Przemysłu, Górnictwa i Handlu \"Lewiatan\"?",
+      "answer": "W 1917 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy podpisano układy wiedeńskie Jagiellonów z Habsburgami przewidujące małżeństwa dynastyczne?",
+      "answer": "W 1515 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Jak nazywał się przywódca chłopski związany z rabacją galicyjską?",
+      "answer": "Jakub Szela",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kto był pierwszym prezesem Banku Polskiego SA po reformie Grabskiego?",
+      "answer": "Stanisław Karpiński",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kiedy założono Uniwersytet Warszawski?",
+      "answer": "W 1816 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku uchwalono III Statut Litewski, obowiązujący do rozbiorów?",
+      "answer": "W 1588 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku doszło do połączenia Prus Książęcych z Brandenburgią w jednej ręce Hohenzollernów?",
+      "answer": "W 1618 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kto był królem Polski, gdy przeniesiono stolicę do Warszawy?",
+      "answer": "Zygmunt III Waza",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kiedy odbyła się bitwa pod Parkanami po odsieczy wiedeńskiej?",
+      "answer": "7 i 9 października 1683 roku",
+      "answer_format": "dwie daty w miesiącu i rok, np. 'D i D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Jak nazywa się akt regulujący sprawy Górnego Śląska między Polską a Niemcami?",
+      "answer": "Konwencja Genewska o Górnym Śląsku z 1922 roku",
+      "answer_format": "pełna nazwa aktu wraz z rokiem"
+    },
+    {
+      "question": "W którym roku Polska uzyskała dostęp do morza na mocy traktatu wersalskiego?",
+      "answer": "W 1919 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy utworzono Wolne Miasto Gdańsk?",
+      "answer": "W 1920 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy została powołana Armia Krajowa z przekształcenia ZWZ?",
+      "answer": "14 lutego 1942 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Jak nazywała się największa tajna organizacja młodzieżowa w okupowanej Polsce związana z harcerstwem?",
+      "answer": "Szare Szeregi",
+      "answer_format": "nazwa organizacji"
+    },
+    {
+      "question": "Kiedy oficjalnie przyjęto polskie barwy narodowe biało-czerwone?",
+      "answer": "3 maja 1792 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Kiedy miała miejsce obrona Głogowa przed najazdem niemieckim?",
+      "answer": "W 1109 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku kanonizowano biskupa krakowskiego św. Stanisława?",
+      "answer": "W 1253 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy ogłoszono Statut wiślicki Kazimierza Wielkiego?",
+      "answer": "W 1347 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku zawarto unię wileńsko-radomską między Polską a Litwą?",
+      "answer": "W 1401 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Jaki rok zamyka I pokój toruński kończący wielką wojnę z Zakonem Krzyżackim?",
+      "answer": "1411",
+      "answer_format": "rok w formacie 'XXXX' (bez słowa 'roku')"
+    },
+    {
+      "question": "Kiedy król Kazimierz Jagiellończyk ogłosił akt inkorporacji Prus do Korony?",
+      "answer": "W 1454 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku ukształtował się dwuizbowy sejm walny w Piotrkowie?",
+      "answer": "W 1493 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku nadano przywilej piotrkowski ograniczający prawa mieszczan i chłopów?",
+      "answer": "W 1496 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy uchwalono przywilej mielnicki wzmacniający rolę senatu?",
+      "answer": "W 1501 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku doszło do sekularyzacji państwa zakonnego i powstania Prus Książęcych?",
+      "answer": "W 1525 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy miała miejsce bitwa pod Lubieszowem podczas wojny Gdańska z królem?",
+      "answer": "W 1577 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku hetman Jan Zamoyski rozbił arcyksięcia Maksymiliana pod Byczyną?",
+      "answer": "W 1588 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W jakich latach trwał rokosz Zebrzydowskiego przeciw Zygmuntowi III?",
+      "answer": "W latach 1606-1609",
+      "answer_format": "zakres lat z przyimkiem 'W latach XXXX-XXXX'"
+    },
+    {
+      "question": "W którym roku rozegrano bitwę pod Guzowem kończącą główne walki rokoszowe?",
+      "answer": "W 1607 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy polskie wojska odniosły zwycięstwo nad Tatarami pod Ochmatowem?",
+      "answer": "W 1644 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku Kozacy rozbili polskie wojska pod Żółtymi Wodami?",
+      "answer": "W 1648 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy rozegrała się klęska wojsk koronnych pod Korsuniem?",
+      "answer": "W 1648 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Jaki rok kończy pokój w Zborowie zawarty z Kozakami i Tatarami?",
+      "answer": "1649",
+      "answer_format": "rok w formacie 'XXXX' (bez słowa 'roku')"
+    },
+    {
+      "question": "W którym roku doszło do bratobójczej bitwy pod Mątwami?",
+      "answer": "W 1666 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Za panowania którego władcy bito miedziane szelągi zwane boratynkami?",
+      "answer": "Jana II Kazimierza Wazy",
+      "answer_format": "imię i nazwisko w dopełniaczu"
+    },
+    {
+      "question": "W którym roku zawiązano proszwedzką konfederację warszawską przeciw Augustowi II?",
+      "answer": "W 1704 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W jakich latach toczyła się wielka wojna północna, która ogarnęła także Rzeczpospolitą?",
+      "answer": "W latach 1700-1721",
+      "answer_format": "zakres lat z przyimkiem 'W latach XXXX-XXXX'"
+    },
+    {
+      "question": "W którym roku Stanisław Konarski założył w Warszawie Collegium Nobilium?",
+      "answer": "W 1740 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy powstał Teatr Narodowy w Warszawie?",
+      "answer": "W 1765 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku ogłoszono I Statut Litewski?",
+      "answer": "W 1529 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy założono Szkołę Rycerską w Warszawie?",
+      "answer": "W 1765 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku ukazał się pierwszy numer \"Merkuriusza Polskiego Ordynaryjnego\"?",
+      "answer": "W 1661 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy zawiązano Związek Pruski sprzeciwiający się Zakonowi Krzyżackiemu?",
+      "answer": "W 1440 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy z Krakowa wyruszyła Pierwsza Kompania Kadrowa?",
+      "answer": "6 sierpnia 1914 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "W którym roku powstała Polska Organizacja Wojskowa?",
+      "answer": "W 1914 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kto dowodził Armią Polską we Francji zwaną Błękitną Armią?",
+      "answer": "Józef Haller",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "W którym roku część Górnego Śląska została przyłączona do Polski?",
+      "answer": "W 1922 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Jak nazywała się reforma szkolna przeprowadzona w II RP w 1932 roku?",
+      "answer": "Reforma Jędrzejewicza",
+      "answer_format": "nazwa reformy"
+    },
+    {
+      "question": "Jak nazywało się ugrupowanie sanacyjne utworzone w 1937 roku przez obóz rządzący?",
+      "answer": "Obóz Zjednoczenia Narodowego (OZN)",
+      "answer_format": "nazwa ugrupowania (z akronimem)"
+    },
+    {
+      "question": "Kiedy Polska zajęła Zaolzie?",
+      "answer": "W październiku 1938 roku",
+      "answer_format": "miesiąc i rok z przyimkiem 'W ... RRRR roku'"
+    },
+    {
+      "question": "Kiedy miała miejsce obrona Poczty Polskiej w Gdańsku?",
+      "answer": "1 września 1939 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Kiedy Wołyńska Brygada Kawalerii stoczyła bitwę pod Mokrą?",
+      "answer": "1 września 1939 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "W którym dniu skapitulowała Twierdza Modlin w kampanii 1939 roku?",
+      "answer": "29 września 1939 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Jak nazywała się akcja AK mająca na celu opanowanie Wilna w lipcu 1944 roku?",
+      "answer": "Operacja \"Ostra Brama\"",
+      "answer_format": "nazwa operacji"
+    },
+    {
+      "question": "Jak nazywała się konspiracyjna Rada Pomocy Żydom powołana 4 grudnia 1942 roku?",
+      "answer": "\"Żegota\"",
+      "answer_format": "nazwa organizacji (w cudzysłowie)"
+    },
+    {
+      "question": "Jak nazywała się polska jednostka pancerno-motorowa walcząca w Afryce Północnej pod Tobrukiem?",
+      "answer": "Samodzielna Brygada Strzelców Karpackich",
+      "answer_format": "nazwa jednostki wojskowej"
+    },
+    {
+      "question": "Kto był współtwórcą bomby wodorowej i pochodził z Polski (Lwów)?",
+      "answer": "Stanisław Ulam",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywał się konspiracyjny zespół historyków gromadzący dokumentację Zagłady w Warszawie?",
+      "answer": "Oneg Szabat (Archiwum Ringelbluma)",
+      "answer_format": "nazwa zespołu (z objaśnieniem w nawiasie)"
+    },
+    {
+      "question": "Kto był premierem PRL podczas wydarzeń Grudnia 1970?",
+      "answer": "Józef Cyrankiewicz",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kiedy ratyfikowano układ Warszawa-Bonn z 1970 roku w Bundestagu?",
+      "answer": "W 1972 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Jak nazywał się zastępca dowódcy Westerplatte, faktyczny organizator obrony na miejscu?",
+      "answer": "Franciszek Dąbrowski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywała się polska misja dyplomatyczna w Bernie organizująca paszporty latynoamerykańskie dla Żydów?",
+      "answer": "Grupa Ładosia",
+      "answer_format": "nazwa grupy"
+    },
+    {
+      "question": "Kiedy i gdzie aresztowano dowództwo AK podstępnie przez NKWD (tzw. \"pułapka\")?",
+      "answer": "W marcu 1945 roku w Pruszkowie",
+      "answer_format": "miesiąc i rok z przyimkiem oraz miejscowość"
+    },
+    {
+      "question": "Kiedy powołano Międzyzakładowy Komitet Strajkowy w Stoczni Gdańskiej?",
+      "answer": "16 sierpnia 1980 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Ile głównych postulatów spisały MKS w Gdańsku w sierpniu 1980 roku?",
+      "answer": "21",
+      "answer_format": "liczba całkowita"
+    },
+    {
+      "question": "Jak nazywała się wojskowa junta kierująca państwem po 13 grudnia 1981 roku?",
+      "answer": "WRON (Wojskowa Rada Ocalenia Narodowego)",
+      "answer_format": "nazwa organu (z rozwinięciem akronimu)"
+    },
+    {
+      "question": "Kiedy przyznano Pokojową Nagrodę Nobla Lechowi Wałęsie?",
+      "answer": "W 1983 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Jak nazywa się symboliczny gest kanclerza Willy’ego Brandta w Warszawie w 1970 roku?",
+      "answer": "\"Klęczący w Warszawie\" (Warschauer Kniefall)",
+      "answer_format": "nazwa gestu (polska i niemiecka w nawiasie)"
+    },
+    {
+      "question": "Kiedy opublikowano \"List 34\" - sprzeciw intelektualistów wobec cenzury?",
+      "answer": "W 1964 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy miał miejsce proces przywódców Polskiego Państwa Podziemnego w Moskwie (Proces Szesnastu)?",
+      "answer": "W czerwcu 1945 roku",
+      "answer_format": "miesiąc i rok z przyimkiem 'W ... RRRR roku'"
+    },
+    {
+      "question": "Jak nazywała się struktura konspiracyjna prowadząca akcję małego sabotażu (m.in. \"kotwice\") w Warszawie?",
+      "answer": "Wawer",
+      "answer_format": "nazwa organizacji"
+    },
+    {
+      "question": "Kto stworzył raport o Holokauście dostarczony aliantom po przedostaniu się z getta i obozów?",
+      "answer": "Jan Karski",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Kto dobrowolnie dał się uwięzić w KL Auschwitz, by zorganizować tam konspirację?",
+      "answer": "Witold Pilecki",
+      "answer_format": "imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywała się operacja zagłady Żydów w Generalnym Gubernatorstwie w latach 1942-1943?",
+      "answer": "Akcja \"Reinhardt\"",
+      "answer_format": "nazwa operacji"
+    },
+    {
+      "question": "Kiedy wybuchł bunt więźniów w obozie zagłady Treblinka?",
+      "answer": "2 sierpnia 1943 roku",
+      "answer_format": "data w formacie 'D miesiąca RRRR roku'"
+    },
+    {
+      "question": "Jak nazywała się akcja AK mająca na celu wysadzenie torów wokół Warszawy w 1942 roku?",
+      "answer": "Akcja \"Wieniec\"",
+      "answer_format": "nazwa akcji"
+    },
+    {
+      "question": "Jak nazywała się operacja przekazania aliantom części V-2 i dokumentacji z okupowanej Polski?",
+      "answer": "Operacja \"Most III\"",
+      "answer_format": "nazwa operacji"
+    },
+    {
+      "question": "Kto dowodził Samodzielną Brygadą Strzelców Karpackich broniąc Tobruku?",
+      "answer": "Generał Stanisław Kopański",
+      "answer_format": "stopień wojskowy oraz imię i nazwisko"
+    },
+    {
+      "question": "Kto objął dowództwo nad Powstaniem Wielkopolskim dnia 15 stycznia 1919 roku?",
+      "answer": "Generał Józef Dowbor-Muśnicki",
+      "answer_format": "stopień wojskowy oraz imię i nazwisko"
+    },
+    {
+      "question": "Jak nazywa się bunt szlachty przeciw królowi w 1537 roku, zwany pospolicie wojną kokoszą?",
+      "answer": "Rokosz lwowski",
+      "answer_format": "nazwa wydarzenia"
+    },
+    {
+      "question": "W którym roku założono Towarzystwo Gimnastyczne \"Sokół\"?",
+      "answer": "W 1867 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy doszło do tzw. reakcji pogańskiej, która wstrząsnęła młodym państwem Piastów?",
+      "answer": "W latach 1037-1038",
+      "answer_format": "zakres lat z przyimkiem 'W latach XXXX-XXXX'"
+    },
+    {
+      "question": "Kto w 1038 roku najechał Polskę, pustosząc m.in. Wielkopolskę i Gniezno?",
+      "answer": "Książę czeski Brzetysław I",
+      "answer_format": "tytuł oraz imię i nazwisko/imię z numerem"
+    },
+    {
+      "question": "W którym roku koronował się Bolesław II zwany Szczodrym (Śmiałym)?",
+      "answer": "W 1076 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku doszło do zabójstwa biskupa krakowskiego Stanisława ze Szczepanowa?",
+      "answer": "W 1079 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Który władca sprowadził benedyktynów do opactwa w Tyńcu?",
+      "answer": "Kazimierz Odnowiciel",
+      "answer_format": "imię i przydomek"
+    },
+    {
+      "question": "W którym roku Poznań otrzymał prawa miejskie na prawie magdeburskim?",
+      "answer": "W 1253 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "W którym roku Toruń uzyskał prawa miejskie na prawie chełmińskim?",
+      "answer": "W 1233 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy Bolesław Pobożny wydał Statut Kaliski - przywilej dla ludności żydowskiej?",
+      "answer": "W 1264 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    },
+    {
+      "question": "Kiedy odbył się proces warszawski przeciw Zakonowi Krzyżackiemu z inicjatywy Władysława Łokietka?",
+      "answer": "W 1339 roku",
+      "answer_format": "rok z przyimkiem 'W XXXX roku'"
+    }
+  ]
 }
